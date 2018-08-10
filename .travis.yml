@@ -7,7 +7,7 @@ branches:
 before_script:
   - pip install csvs-to-sqlite
   - pip install Markdown==2.6.11  
-  - git clone git@github.com:statsbomb/open-data.git
+  - git clone https://github.com/statsbomb/open-data.git
   - python output_csv.py
-script: csvs-to-sqlite data-master open-data.db
+script: csvs-to-sqlite  ./csv/*.csv womens-shot-data.db
 after_success: .travis/push_back.sh
