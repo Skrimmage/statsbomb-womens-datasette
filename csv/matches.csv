@@ -1,31 +1,31 @@
-match_id,competition_id,competition_country_name,competition_name,match_date
-7298,2018-02-24,37,England,FA Women's Super League
-7444,2018-05-06,49,United States of America,NWSL
-7519,2018-05-31,49,United States of America,NWSL
-7443,2018-05-05,49,United States of America,NWSL
-7445,2018-05-06,49,United States of America,NWSL
-7456,2018-05-20,49,United States of America,NWSL
-7457,2018-05-24,49,United States of America,NWSL
-7521,2018-06-03,49,United States of America,NWSL
-7520,2018-06-03,49,United States of America,NWSL
-7523,2018-06-04,49,United States of America,NWSL
-7522,2018-06-04,49,United States of America,NWSL
-7482,2018-07-12,49,United States of America,NWSL
-7487,2018-07-21,49,United States of America,NWSL
-7483,2018-07-14,49,United States of America,NWSL
-7471,2018-06-30,49,United States of America,NWSL
-7486,2018-07-16,49,United States of America,NWSL
-7484,2018-07-15,49,United States of America,NWSL
-7479,2018-07-08,49,United States of America,NWSL
-7476,2018-07-07,49,United States of America,NWSL
-7485,2018-07-15,49,United States of America,NWSL
-7475,2018-07-05,49,United States of America,NWSL
-7490,2018-07-22,49,United States of America,NWSL
-7474,2018-07-02,49,United States of America,NWSL
-7477,2018-07-07,49,United States of America,NWSL
-7472,2018-07-01,49,United States of America,NWSL
-7478,2018-07-08,49,United States of America,NWSL
-7480,2018-07-12,49,United States of America,NWSL
-7492,2018-08-06,49,United States of America,NWSL
-7524,2018-07-08,49,United States of America,NWSL
-7494,2018-08-06,49,United States of America,NWSL
+match_id,competition_id,competition_country_name,competition_name,match_date,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score
+7298,2018-02-24,37,England,FA Women's Super League,746,Manchester City WFC,745,Chelsea LFC,2,2
+7444,2018-05-06,49,United States of America,NWSL,766,North Carolina Courage,761,Chicago Red Stars,1,1
+7519,2018-05-31,49,United States of America,NWSL,765,Portland Thorns FC,766,North Carolina Courage,1,4
+7443,2018-05-05,49,United States of America,NWSL,765,Portland Thorns FC,760,Seattle Reign FC,2,3
+7445,2018-05-06,49,United States of America,NWSL,767,Utah Royals FC,759,Washington Spirit,2,0
+7456,2018-05-20,49,United States of America,NWSL,763,Sky Blue FC,766,North Carolina Courage,1,2
+7457,2018-05-24,49,United States of America,NWSL,764,Orlando Pride,766,North Carolina Courage,3,4
+7521,2018-06-03,49,United States of America,NWSL,763,Sky Blue FC,767,Utah Royals FC,1,2
+7520,2018-06-03,49,United States of America,NWSL,759,Washington Spirit,761,Chicago Red Stars,0,2
+7523,2018-06-04,49,United States of America,NWSL,760,Seattle Reign FC,764,Orlando Pride,0,0
+7522,2018-06-04,49,United States of America,NWSL,762,Houston Dash,766,North Carolina Courage,1,1
+7482,2018-07-12,49,United States of America,NWSL,766,North Carolina Courage,759,Washington Spirit,2,0
+7487,2018-07-21,49,United States of America,NWSL,767,Utah Royals FC,766,North Carolina Courage,0,0
+7483,2018-07-14,49,United States of America,NWSL,767,Utah Royals FC,764,Orlando Pride,1,2
+7471,2018-06-30,49,United States of America,NWSL,764,Orlando Pride,766,North Carolina Courage,0,3
+7486,2018-07-16,49,United States of America,NWSL,765,Portland Thorns FC,762,Houston Dash,3,1
+7484,2018-07-15,49,United States of America,NWSL,763,Sky Blue FC,766,North Carolina Courage,0,4
+7479,2018-07-08,49,United States of America,NWSL,764,Orlando Pride,759,Washington Spirit,2,1
+7476,2018-07-07,49,United States of America,NWSL,763,Sky Blue FC,761,Chicago Red Stars,1,3
+7485,2018-07-15,49,United States of America,NWSL,761,Chicago Red Stars,760,Seattle Reign FC,1,0
+7475,2018-07-05,49,United States of America,NWSL,766,North Carolina Courage,761,Chicago Red Stars,4,1
+7490,2018-07-22,49,United States of America,NWSL,763,Sky Blue FC,765,Portland Thorns FC,1,2
+7474,2018-07-02,49,United States of America,NWSL,761,Chicago Red Stars,759,Washington Spirit,2,0
+7477,2018-07-07,49,United States of America,NWSL,765,Portland Thorns FC,767,Utah Royals FC,4,0
+7472,2018-07-01,49,United States of America,NWSL,760,Seattle Reign FC,765,Portland Thorns FC,1,0
+7478,2018-07-08,49,United States of America,NWSL,760,Seattle Reign FC,762,Houston Dash,3,1
+7480,2018-07-12,49,United States of America,NWSL,760,Seattle Reign FC,767,Utah Royals FC,1,0
+7492,2018-08-06,49,United States of America,NWSL,764,Orlando Pride,763,Sky Blue FC,2,2
+7524,2018-07-08,49,United States of America,NWSL,762,Houston Dash,764,Orlando Pride,3,1
+7494,2018-08-06,49,United States of America,NWSL,762,Houston Dash,767,Utah Royals FC,1,2
