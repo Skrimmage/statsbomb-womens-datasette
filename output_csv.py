@@ -40,8 +40,8 @@ def get_events():
             'player_id',
             'player_name',
             'shot_xg',
-            'shot_result',
-            'shot_result_id'
+            'shot_result_id',
+            'shot_result'
         ])
 
         for match_id, match in data:
@@ -80,7 +80,7 @@ def get_matches():
         writer = csv.writer(csv_file)
 
         # Headers
-        writer.writerow(['match_id', 'competition_id', 'competition_country_name', 'competition_name', 'match_date', 'home_team_id', 'home_team_name', 'away_team_id', 'away_team_name', 'home_score', 'away_score'])
+        writer.writerow(['match_id', 'match_date', 'competition_id', 'competition_country_name', 'competition_name', 'home_team_id', 'home_team_name', 'away_team_id', 'away_team_name', 'home_score', 'away_score'])
 
         for comp in data:
             for match in comp:
