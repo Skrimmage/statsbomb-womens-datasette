@@ -1,0 +1,885 @@
+match_id,timestamp,type_id,type_name,team_id,team_name,player_id,player_name,shot_xg,shot_result,shot_result_id
+7298,00:00:47.620,16,Shot,745,Chelsea LFC,4641,Francesca Kirby,0.25842914,96,Blocked
+7298,00:05:12.780,16,Shot,745,Chelsea LFC,4641,Francesca Kirby,0.110746585,96,Blocked
+7298,00:05:41.940,16,Shot,745,Chelsea LFC,4647,So-yun Ji,0.033619918,96,Blocked
+7298,00:05:43.900,16,Shot,745,Chelsea LFC,4638,Drew Spence,0.12340313,96,Blocked
+7298,00:05:46.380,16,Shot,745,Chelsea LFC,4642,Millie Bright,0.11589084,97,Goal
+7298,00:17:44.300,16,Shot,745,Chelsea LFC,4641,Francesca Kirby,0.19433844,96,Blocked
+7298,00:21:47.940,16,Shot,745,Chelsea LFC,4639,Maren Mjelde,0.0063682166,98,Off T
+7298,00:23:21.100,16,Shot,745,Chelsea LFC,4647,So-yun Ji,0.1778504,97,Goal
+7298,00:24:41.780,16,Shot,745,Chelsea LFC,4641,Francesca Kirby,0.1041254,100,Saved
+7298,00:26:22.860,16,Shot,746,Manchester City WFC,4654,Nikita Parris,0.22277357,100,Saved
+7298,00:26:32.955,16,Shot,746,Manchester City WFC,4644,Jill Scott,0.06679266,96,Blocked
+7298,00:32:28.780,16,Shot,745,Chelsea LFC,4641,Francesca Kirby,0.22740154,96,Blocked
+7298,00:39:07.580,16,Shot,745,Chelsea LFC,4659,Ramona Bachmann,0.10775324,100,Saved
+7298,00:39:10.820,16,Shot,745,Chelsea LFC,4647,So-yun Ji,0.08865718,96,Blocked
+7298,00:42:01.500,16,Shot,745,Chelsea LFC,4641,Francesca Kirby,0.13323198,98,Off T
+7298,00:45:20.020,16,Shot,745,Chelsea LFC,4638,Drew Spence,0.03578204,98,Off T
+7298,00:47:58.740,16,Shot,745,Chelsea LFC,4659,Ramona Bachmann,0.106527805,96,Blocked
+7298,00:02:59.118,16,Shot,745,Chelsea LFC,4659,Ramona Bachmann,0.40758687,100,Saved
+7298,00:03:41.638,16,Shot,746,Manchester City WFC,4654,Nikita Parris,0.52930945,97,Goal
+7298,00:04:37.118,16,Shot,745,Chelsea LFC,4641,Francesca Kirby,0.09025184,96,Blocked
+7298,00:08:59.958,16,Shot,745,Chelsea LFC,4659,Ramona Bachmann,0.33703482,98,Off T
+7298,00:18:12.758,16,Shot,745,Chelsea LFC,4659,Ramona Bachmann,0,100,Saved
+7298,00:22:48.798,16,Shot,745,Chelsea LFC,4642,Millie Bright,0.255555,98,Off T
+7298,00:25:07.438,16,Shot,746,Manchester City WFC,4655,Jennifer Beattie,0.02341445,101,Wayward
+7298,00:25:55.878,16,Shot,745,Chelsea LFC,4634,Crystal Dunn,0.14965285,98,Off T
+7298,00:29:46.198,16,Shot,746,Manchester City WFC,4643,Georgia Stanway,0.00799156,100,Saved
+7298,00:31:51.518,16,Shot,746,Manchester City WFC,4654,Nikita Parris,0.3455665,98,Off T
+7298,00:39:25.078,16,Shot,745,Chelsea LFC,4660,Erin Cuthbert,0.2445204,100,Saved
+7298,00:39:27.158,16,Shot,745,Chelsea LFC,4634,Crystal Dunn,0.22506227,98,Off T
+7298,00:40:34.118,16,Shot,746,Manchester City WFC,4643,Georgia Stanway,0.02812915,97,Goal
+7298,00:42:50.838,16,Shot,745,Chelsea LFC,4659,Ramona Bachmann,0.25221974,96,Blocked
+7298,00:42:54.358,16,Shot,745,Chelsea LFC,4660,Erin Cuthbert,0.16757599,96,Blocked
+7298,00:44:21.918,16,Shot,746,Manchester City WFC,4643,Georgia Stanway,0.07434511,100,Saved
+7298,00:46:07.810,16,Shot,746,Manchester City WFC,4655,Jennifer Beattie,0.037468478,98,Off T
+7443,00:08:38.680,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.078464635,100,Saved
+7443,00:17:11.880,16,Shot,765,Portland Thorns FC,5010,Mallory Weber,0.30805254,99,Post
+7443,00:21:05.480,16,Shot,760,Seattle Reign FC,5000,Steph Catley,0.090780005,100,Saved
+7443,00:25:00.120,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.05026971,98,Off T
+7443,00:27:34.880,16,Shot,765,Portland Thorns FC,5010,Mallory Weber,0.1936638,100,Saved
+7443,00:28:05.880,16,Shot,765,Portland Thorns FC,5004,Ana-Maria Crnogorcevic,0.18818037,98,Off T
+7443,00:33:31.920,16,Shot,760,Seattle Reign FC,5001,Allie Long,0.18473458,100,Saved
+7443,00:34:11.360,16,Shot,760,Seattle Reign FC,5016,Jessica Fishlock,0.024224525,100,Saved
+7443,00:35:08.880,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.16195504,97,Goal
+7443,00:36:31.800,16,Shot,765,Portland Thorns FC,5010,Mallory Weber,0.011179873,96,Blocked
+7443,00:40:39.880,16,Shot,760,Seattle Reign FC,5001,Allie Long,0.072008565,98,Off T
+7443,00:42:46.400,16,Shot,765,Portland Thorns FC,5004,Ana-Maria Crnogorcevic,0.17837659,100,Saved
+7443,00:04:08.720,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.1593861,98,Off T
+7443,00:05:35.560,16,Shot,765,Portland Thorns FC,5013,Tobin Heath,0.057127103,98,Off T
+7443,00:07:47.240,16,Shot,760,Seattle Reign FC,5001,Allie Long,0.008985023,96,Blocked
+7443,00:09:36.840,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.10713719,99,Post
+7443,00:09:42.640,16,Shot,765,Portland Thorns FC,5004,Ana-Maria Crnogorcevic,0.4847998,100,Saved
+7443,00:13:52.960,16,Shot,765,Portland Thorns FC,5004,Ana-Maria Crnogorcevic,0.052199584,96,Blocked
+7443,00:15:03.800,16,Shot,765,Portland Thorns FC,5003,Emily Sonnett,0.62073666,97,Goal
+7443,00:16:27.800,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.058930013,101,Wayward
+7443,00:17:15.360,16,Shot,760,Seattle Reign FC,4998,Rumi Utsugi,0.030748216,96,Blocked
+7443,00:18:29.440,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.76,97,Goal
+7443,00:19:52.960,16,Shot,765,Portland Thorns FC,5018,Andressa Cavalari Machry,0.069626816,96,Blocked
+7443,00:23:59.880,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.05312884,101,Wayward
+7443,00:24:14.080,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.066558115,97,Goal
+7443,00:28:02.560,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.20005307,100,Saved
+7443,00:28:56.293,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.24614456,96,Blocked
+7443,00:29:36.480,16,Shot,760,Seattle Reign FC,4998,Rumi Utsugi,0.011383719,97,Goal
+7443,00:33:02.720,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.029873796,98,Off T
+7443,00:35:36.200,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.034299016,96,Blocked
+7443,00:40:19.120,16,Shot,765,Portland Thorns FC,5009,Margaret Purce,0.018659495,100,Saved
+7443,00:42:19.040,16,Shot,765,Portland Thorns FC,5013,Tobin Heath,0.37646845,100,Saved
+7443,00:42:19.800,16,Shot,765,Portland Thorns FC,5013,Tobin Heath,0.46742824,96,Blocked
+7443,00:42:59.440,16,Shot,765,Portland Thorns FC,5020,Christine Sinclair,0.08389726,96,Blocked
+7443,00:43:30.720,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.05856229,100,Saved
+7443,00:44:06.240,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.011357373,96,Blocked
+7443,00:44:13.000,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.030363064,100,Saved
+7444,00:00:26.240,16,Shot,761,Chicago Red Stars,5104,Summer Green,0.013721521,96,Blocked
+7444,00:01:03.040,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.02893483,98,Off T
+7444,00:13:07.813,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.014656199,101,Wayward
+7444,00:15:14.600,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.14557707,98,Off T
+7444,00:16:05.120,16,Shot,766,North Carolina Courage,5091,McCall Zerboni,0.060297254,100,Saved
+7444,00:16:40.960,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.07613846,96,Blocked
+7444,00:16:42.040,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.28918913,96,Blocked
+7444,00:16:45.960,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.30537966,96,Blocked
+7444,00:16:52.560,16,Shot,766,North Carolina Courage,5047,Jaelene Hinkle,0.045272704,98,Off T
+7444,00:19:58.200,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.029803537,96,Blocked
+7444,00:20:01.800,16,Shot,766,North Carolina Courage,5083,Merritt Mathias,0.026598189,101,Wayward
+7444,00:22:07.200,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.15223785,101,Wayward
+7444,00:23:50.453,16,Shot,761,Chicago Red Stars,5105,Sofia Huerta,0.021394089,98,Off T
+7444,00:28:09.400,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.057996523,100,Saved
+7444,00:29:49.880,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.16843729,98,Off T
+7444,00:33:11.573,16,Shot,761,Chicago Red Stars,4957,Lauren Kaskie,0.08521275,96,Blocked
+7444,00:33:14.040,16,Shot,761,Chicago Red Stars,4957,Lauren Kaskie,0.072642,96,Blocked
+7444,00:34:30.520,16,Shot,766,North Carolina Courage,5091,McCall Zerboni,0.04761729,96,Blocked
+7444,00:34:47.880,16,Shot,766,North Carolina Courage,5083,Merritt Mathias,0.043000527,100,Saved
+7444,00:36:00.160,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.022139983,96,Blocked
+7444,00:36:53.533,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.057666786,97,Goal
+7444,00:39:23.920,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.010088071,98,Off T
+7444,00:41:13.040,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.103094354,100,Saved
+7444,00:41:16.520,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.08006459,98,Off T
+7444,00:44:15.680,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.08647132,101,Wayward
+7444,00:47:17.880,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.013479715,96,Blocked
+7444,00:03:46.027,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.48281053,100,Saved
+7444,00:08:16.907,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.026546603,100,Saved
+7444,00:08:45.987,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.045367133,96,Blocked
+7444,00:09:51.307,16,Shot,766,North Carolina Courage,5091,McCall Zerboni,0.059681382,98,Off T
+7444,00:10:32.987,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.049313277,100,Saved
+7444,00:11:00.267,16,Shot,766,North Carolina Courage,5091,McCall Zerboni,0.17698312,100,Saved
+7444,00:11:08.707,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.13443598,98,Off T
+7444,00:12:48.347,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.042108465,96,Blocked
+7444,00:13:06.720,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.11346333,98,Off T
+7444,00:19:00.747,16,Shot,766,North Carolina Courage,5091,McCall Zerboni,0.105163984,101,Wayward
+7444,00:20:14.747,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.10479112,100,Saved
+7444,00:20:41.827,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.06346435,98,Off T
+7444,00:24:12.147,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.028100245,96,Blocked
+7444,00:27:17.827,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.0808771,98,Off T
+7444,00:36:17.027,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.14159591,100,Saved
+7444,00:36:44.707,16,Shot,766,North Carolina Courage,5091,McCall Zerboni,0.34732598,97,Goal
+7444,00:40:27.467,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.36277145,100,Saved
+7444,00:41:25.587,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.16599022,98,Off T
+7444,00:48:01.827,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.037268095,101,Wayward
+7445,00:03:01.060,16,Shot,767,Utah Royals FC,4975,Gunnhildur Yrsa Jónsdóttir,0.18420108,98,Off T
+7445,00:06:09.700,16,Shot,767,Utah Royals FC,5021,Kelley O'Hara,0.3575754,97,Goal
+7445,00:17:15.740,16,Shot,759,Washington Spirit,5023,Mallory Pugh,0.23666824,98,Off T
+7445,00:23:54.713,16,Shot,767,Utah Royals FC,4979,Katrina Gorry,0.009300119,98,Off T
+7445,00:38:46.660,16,Shot,767,Utah Royals FC,5021,Kelley O'Hara,0.097985126,100,Saved
+7445,00:39:27.940,16,Shot,767,Utah Royals FC,5030,Becky Sauerbrunn,0.15586284,98,Off T
+7445,00:47:23.340,16,Shot,759,Washington Spirit,4940,Andi Sullivan,0.024474885,96,Blocked
+7445,00:12:28.747,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.1977499,98,Off T
+7445,00:20:37.920,16,Shot,767,Utah Royals FC,4973,Diana Matheson,0.258892,97,Goal
+7445,00:24:45.067,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.054514084,98,Off T
+7445,00:27:03.787,16,Shot,767,Utah Royals FC,5021,Kelley O'Hara,0.13373406,100,Saved
+7445,00:29:22.880,16,Shot,767,Utah Royals FC,4979,Katrina Gorry,0.09075868,98,Off T
+7445,00:37:12.787,16,Shot,759,Washington Spirit,4940,Andi Sullivan,0.40802,101,Wayward
+7445,00:37:22.840,16,Shot,759,Washington Spirit,4940,Andi Sullivan,0.011869242,100,Saved
+7445,00:38:34.867,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.3872579,98,Off T
+7445,00:45:15.347,16,Shot,759,Washington Spirit,5022,Francisca Ordega,0.05385764,100,Saved
+7445,00:45:43.400,16,Shot,759,Washington Spirit,5032,Cali Farquharson,0.02424857,98,Off T
+7445,00:48:10.347,16,Shot,759,Washington Spirit,4940,Andi Sullivan,0.029251963,96,Blocked
+7445,00:48:34.187,16,Shot,759,Washington Spirit,4951,Rebecca Quinn,0.08299579,98,Off T
+7456,00:00:49.787,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.051794928,100,Saved
+7456,00:05:34.267,16,Shot,763,Sky Blue FC,4986,Shea Groom,0.054680392,100,Saved
+7456,00:06:17.827,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.052858192,96,Blocked
+7456,00:06:19.047,16,Shot,763,Sky Blue FC,4982,Katlyn Johnson,0.47313207,98,Off T
+7456,00:07:09.067,16,Shot,763,Sky Blue FC,4982,Katlyn Johnson,0.014909261,98,Off T
+7456,00:12:27.947,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.31375325,98,Off T
+7456,00:13:32.907,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.08471247,100,Saved
+7456,00:15:39.427,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.17017628,97,Goal
+7456,00:18:33.267,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.060632598,98,Off T
+7456,00:19:50.987,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.07657921,96,Blocked
+7456,00:21:56.307,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.005611247,96,Blocked
+7456,00:24:10.467,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.04537983,96,Blocked
+7456,00:26:11.400,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.01614419,100,Saved
+7456,00:26:39.867,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.51376736,97,Goal
+7456,00:30:33.947,16,Shot,766,North Carolina Courage,5037,Abby Erceg,0.01551306,101,Wayward
+7456,00:36:26.667,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.096354626,100,Saved
+7456,00:41:37.187,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.18243344,98,Off T
+7456,00:42:52.627,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.17199594,96,Blocked
+7456,00:43:27.467,16,Shot,766,North Carolina Courage,5037,Abby Erceg,0.020762242,101,Wayward
+7456,00:46:07.560,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.023836961,100,Saved
+7456,00:46:09.467,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.2956955,98,Off T
+7456,00:03:28.000,16,Shot,763,Sky Blue FC,5096,Savannah McCaskill,0.11954558,96,Blocked
+7456,00:08:52.653,16,Shot,763,Sky Blue FC,4988,Sarah Killion,0.19296522,100,Saved
+7456,00:12:20.360,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.28801343,98,Off T
+7456,00:19:24.400,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.02991188,96,Blocked
+7456,00:21:34.120,16,Shot,766,North Carolina Courage,5047,Jaelene Hinkle,0.0564633,98,Off T
+7456,00:22:12.360,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.14051926,101,Wayward
+7456,00:22:58.080,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.012210082,98,Off T
+7456,00:26:40.480,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.76,100,Saved
+7456,00:26:42.480,16,Shot,763,Sky Blue FC,4967,Raquel Rodriguez,0.25585282,100,Saved
+7456,00:28:21.480,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.020749688,96,Blocked
+7456,00:29:27.973,16,Shot,766,North Carolina Courage,5047,Jaelene Hinkle,0.062135182,98,Off T
+7456,00:35:36.292,16,Shot,766,North Carolina Courage,5036,Darian Jenkins,0.15061268,96,Blocked
+7456,00:38:44.760,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.025551973,101,Wayward
+7456,00:40:20.080,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.00837461,98,Off T
+7456,00:48:37.160,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.0294512,97,Goal
+7457,00:03:28.507,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.072184026,96,Blocked
+7457,00:04:00.947,16,Shot,766,North Carolina Courage,5037,Abby Erceg,0.013320709,98,Off T
+7457,00:08:10.787,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.048947275,99,Post
+7457,00:08:25.627,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.387321,99,Post
+7457,00:08:27.027,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.42260548,98,Off T
+7457,00:13:20.867,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.044237405,96,Blocked
+7457,00:14:03.067,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.07091502,98,Off T
+7457,00:16:07.747,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.22538973,96,Blocked
+7457,00:18:26.107,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.26558074,98,Off T
+7457,00:20:22.387,16,Shot,764,Orlando Pride,5063,Chioma Ubogagu,0.010075454,98,Off T
+7457,00:21:12.547,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.4818671,100,Saved
+7457,00:21:13.427,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.16419464,101,Wayward
+7457,00:25:13.200,16,Shot,764,Orlando Pride,5078,Alanna Kennedy,0.43486878,98,Off T
+7457,00:30:33.347,16,Shot,766,North Carolina Courage,5091,McCall Zerboni,0.06578869,96,Blocked
+7457,00:30:36.067,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.49775556,97,Goal
+7457,00:31:58.907,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.045868296,96,Blocked
+7457,00:34:00.907,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.29751244,98,Off T
+7457,00:37:28.827,16,Shot,764,Orlando Pride,5070,Christine Nairn,0.16829333,96,Blocked
+7457,00:39:27.707,16,Shot,766,North Carolina Courage,5037,Abby Erceg,0.03138819,101,Wayward
+7457,00:39:39.907,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.06164183,96,Blocked
+7457,00:40:31.507,16,Shot,766,North Carolina Courage,5083,Merritt Mathias,0.13243823,98,Off T
+7457,00:05:12.012,16,Shot,764,Orlando Pride,5076,Emily van Egmond,0.013945219,98,Off T
+7457,00:06:48.159,16,Shot,764,Orlando Pride,5063,Chioma Ubogagu,0.28697684,97,Goal
+7457,00:11:31.079,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.3337101,97,Goal
+7457,00:13:25.652,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.22289412,98,Off T
+7457,00:15:53.519,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.09666467,97,Goal
+7457,00:18:50.039,16,Shot,764,Orlando Pride,5078,Alanna Kennedy,0.19202672,97,Goal
+7457,00:23:18.199,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.051120874,96,Blocked
+7457,00:24:04.239,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.15632541,100,Saved
+7457,00:27:22.639,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.048113022,96,Blocked
+7457,00:29:48.839,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.046232298,96,Blocked
+7457,00:32:43.999,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.011050686,98,Off T
+7457,00:37:12.279,16,Shot,764,Orlando Pride,5086,Rachel Hill,0.3008716,97,Goal
+7457,00:38:36.052,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.026818672,98,Off T
+7457,00:44:09.519,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.15488,96,Blocked
+7471,00:00:08.489,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.007144764,100,Saved
+7471,00:11:21.168,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.0018666667,96,Blocked
+7471,00:14:20.262,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.023627663,98,Off T
+7471,00:15:24.528,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.028534563,101,Wayward
+7471,00:17:39.217,16,Shot,766,North Carolina Courage,5083,Merritt Mathias,0.013216271,96,Blocked
+7471,00:18:08.274,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.06445487,100,Saved
+7471,00:23:59.127,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.05934509,96,Blocked
+7471,00:24:48.632,16,Shot,764,Orlando Pride,5074,Shelina Zadorsky,0.033072576,100,Saved
+7471,00:25:51.876,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0,100,Saved
+7471,00:36:12.462,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.09725227,97,Goal
+7471,00:38:33.100,16,Shot,766,North Carolina Courage,5083,Merritt Mathias,0.02633109,97,Goal
+7471,00:39:47.972,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.41621518,97,Goal
+7471,00:40:39.382,16,Shot,764,Orlando Pride,5076,Emily van Egmond,0.048180588,100,Saved
+7471,00:41:16.795,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.016007543,96,Blocked
+7471,00:41:55.493,16,Shot,764,Orlando Pride,5078,Alanna Kennedy,0.02786192,98,Off T
+7471,00:43:42.846,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.012493692,100,Saved
+7471,00:02:00.075,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.047516454,96,Blocked
+7471,00:07:19.162,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.024433812,98,Off T
+7471,00:09:46.955,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.077662215,98,Off T
+7471,00:10:35.072,16,Shot,764,Orlando Pride,5060,Poliana Barbosa Medeiros,0.01361321,100,Saved
+7471,00:13:38.086,16,Shot,764,Orlando Pride,5060,Poliana Barbosa Medeiros,0.10767479,96,Blocked
+7471,00:14:36.757,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.1338577,100,Saved
+7471,00:15:38.925,16,Shot,764,Orlando Pride,5076,Emily van Egmond,0.05021186,96,Blocked
+7471,00:17:24.531,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.024734065,98,Off T
+7471,00:21:35.399,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.027285887,98,Off T
+7471,00:25:17.404,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.16643989,98,Off T
+7471,00:28:48.257,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.028865336,100,Saved
+7471,00:34:23.125,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.010831363,98,Off T
+7471,00:39:07.785,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.019675653,98,Off T
+7471,00:43:44.568,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.020524055,96,Blocked
+7471,00:45:40.056,16,Shot,766,North Carolina Courage,5036,Darian Jenkins,0.09338753,96,Blocked
+7472,00:02:59.674,16,Shot,765,Portland Thorns FC,5020,Christine Sinclair,0.035161335,96,Blocked
+7472,00:08:35.966,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.011619182,100,Saved
+7472,00:09:19.940,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.08891137,98,Off T
+7472,00:16:28.278,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.024058321,100,Saved
+7472,00:24:01.414,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.023006763,98,Off T
+7472,00:28:35.285,16,Shot,765,Portland Thorns FC,6818,Hayley Raso,0.45251596,98,Off T
+7472,00:29:41.026,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.14613745,100,Saved
+7472,00:31:13.808,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.07739432,98,Off T
+7472,00:38:10.722,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.2169787,100,Saved
+7472,00:40:07.208,16,Shot,760,Seattle Reign FC,5075,Elizabeth Addo,0.15718575,98,Off T
+7472,00:00:32.781,16,Shot,765,Portland Thorns FC,6818,Hayley Raso,0.13451105,98,Off T
+7472,00:01:53.883,16,Shot,760,Seattle Reign FC,5001,Allie Long,0.041360836,100,Saved
+7472,00:10:45.712,16,Shot,760,Seattle Reign FC,5075,Elizabeth Addo,0.14267747,100,Saved
+7472,00:16:06.870,16,Shot,765,Portland Thorns FC,6818,Hayley Raso,0.24823621,98,Off T
+7472,00:28:47.766,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.15830316,101,Wayward
+7472,00:30:06.969,16,Shot,760,Seattle Reign FC,4998,Rumi Utsugi,0.05772108,100,Saved
+7472,00:30:35.983,16,Shot,765,Portland Thorns FC,5009,Margaret Purce,0.048648193,98,Off T
+7472,00:31:17.287,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.017755542,98,Off T
+7472,00:34:07.405,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.12636766,96,Blocked
+7472,00:34:36.412,16,Shot,760,Seattle Reign FC,5069,Theresa Nielsen,0.103806645,96,Blocked
+7472,00:34:39.264,16,Shot,760,Seattle Reign FC,5065,Lauren Barnes,0.04649853,98,Off T
+7472,00:36:24.377,16,Shot,765,Portland Thorns FC,5004,Ana-Maria Crnogorcevic,0.09680521,98,Off T
+7472,00:41:10.391,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.08652753,100,Saved
+7472,00:43:48.789,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.5908707,97,Goal
+7474,00:00:50.545,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.17645101,100,Saved
+7474,00:05:01.958,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.101699695,101,Wayward
+7474,00:07:30.660,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.04028928,96,Blocked
+7474,00:09:38.153,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.084555976,101,Wayward
+7474,00:10:19.053,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.47463554,100,Saved
+7474,00:12:43.374,16,Shot,761,Chicago Red Stars,5103,Michele Vasconcelos,0.06637032,99,Post
+7474,00:13:38.648,16,Shot,761,Chicago Red Stars,4963,Yuki Nagasato,0.03167788,100,Saved
+7474,00:14:02.533,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.148465,100,Saved
+7474,00:29:45.716,16,Shot,761,Chicago Red Stars,5103,Michele Vasconcelos,0.014555463,100,Saved
+7474,00:32:46.069,16,Shot,761,Chicago Red Stars,4953,Alyssa Mautz,0.005755066,98,Off T
+7474,00:33:19.562,16,Shot,761,Chicago Red Stars,7179,Casey Short,0.018625576,97,Goal
+7474,00:34:56.795,16,Shot,761,Chicago Red Stars,4963,Yuki Nagasato,0.26397422,98,Off T
+7474,00:44:49.939,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.15734279,98,Off T
+7474,00:45:49.925,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.021922655,96,Blocked
+7474,00:46:21.336,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.1460647,96,Blocked
+7474,00:00:55.075,16,Shot,759,Washington Spirit,4940,Andi Sullivan,0.10023385,96,Blocked
+7474,00:01:30.659,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.0939103,101,Wayward
+7474,00:02:43.395,16,Shot,759,Washington Spirit,5022,Francisca Ordega,0.17923997,96,Blocked
+7474,00:04:04.672,16,Shot,759,Washington Spirit,4962,Caprice Dydasco,0.04794078,98,Off T
+7474,00:08:42.684,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.13382152,98,Off T
+7474,00:11:46.661,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.16138417,100,Saved
+7474,00:12:23.830,16,Shot,761,Chicago Red Stars,4953,Alyssa Mautz,0.16730216,98,Off T
+7474,00:14:07.271,16,Shot,761,Chicago Red Stars,4963,Yuki Nagasato,0.18794152,97,Goal
+7474,00:15:18.667,16,Shot,761,Chicago Red Stars,5103,Michele Vasconcelos,0.030072052,98,Off T
+7474,00:16:05.040,16,Shot,759,Washington Spirit,4940,Andi Sullivan,0.008657102,96,Blocked
+7474,00:16:16.256,16,Shot,759,Washington Spirit,5029,Tori Huster,0.29919583,96,Blocked
+7474,00:22:20.986,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.07668969,96,Blocked
+7474,00:22:22.045,16,Shot,759,Washington Spirit,5022,Francisca Ordega,0.2233572,100,Saved
+7474,00:23:38.345,16,Shot,759,Washington Spirit,4941,Taylor Smith,0.010012381,96,Blocked
+7474,00:27:05.254,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.21503372,100,Saved
+7474,00:28:20.680,16,Shot,759,Washington Spirit,5022,Francisca Ordega,0.026368506,100,Saved
+7474,00:34:28.731,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.06523911,98,Off T
+7474,00:35:55.404,16,Shot,759,Washington Spirit,4962,Caprice Dydasco,0.016997715,101,Wayward
+7474,00:37:41.555,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.07932031,98,Off T
+7474,00:40:46.596,16,Shot,761,Chicago Red Stars,4963,Yuki Nagasato,0.014621636,98,Off T
+7474,00:43:33.290,16,Shot,759,Washington Spirit,4943,Estelle Johnson,0.07145841,101,Wayward
+7474,00:43:35.078,16,Shot,759,Washington Spirit,4946,Joanna Lohman,0.046881776,98,Off T
+7474,00:45:37.908,16,Shot,761,Chicago Red Stars,6815,Brooke Elby,0.51681083,100,Saved
+7475,00:01:47.297,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.13880008,100,Saved
+7475,00:04:14.607,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.3057256,98,Off T
+7475,00:04:59.989,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.30432072,100,Saved
+7475,00:05:34.620,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.025171408,96,Blocked
+7475,00:05:36.477,16,Shot,761,Chicago Red Stars,4948,Rosie White,0.11299557,96,Blocked
+7475,00:06:14.304,16,Shot,761,Chicago Red Stars,6815,Brooke Elby,0.02909296,96,Blocked
+7475,00:07:38.181,16,Shot,761,Chicago Red Stars,6812,Vanessa DiBernardo,0.013212486,100,Saved
+7475,00:08:34.566,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.24402042,98,Off T
+7475,00:09:52.345,16,Shot,761,Chicago Red Stars,6812,Vanessa DiBernardo,0.020124402,96,Blocked
+7475,00:09:54.445,16,Shot,761,Chicago Red Stars,6811,Julie Ertz,0.0105302995,98,Off T
+7475,00:10:23.472,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.00575766,96,Blocked
+7475,00:14:57.243,16,Shot,761,Chicago Red Stars,6813,Morgan brain,0.07192653,98,Off T
+7475,00:15:33.592,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.07218155,96,Blocked
+7475,00:16:05.663,16,Shot,761,Chicago Red Stars,6813,Morgan brain,0.018313555,96,Blocked
+7475,00:19:06.472,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.46300417,98,Off T
+7475,00:19:54.790,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.033912033,97,Goal
+7475,00:35:33.376,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.008133209,98,Off T
+7475,00:38:43.273,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.056832094,96,Blocked
+7475,00:38:45.699,16,Shot,766,North Carolina Courage,5091,McCall Zerboni,0.03877077,96,Blocked
+7475,00:45:55.620,16,Shot,766,North Carolina Courage,5037,Abby Erceg,0.029738035,98,Off T
+7475,00:00:45.494,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.051159404,96,Blocked
+7475,00:08:01.466,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.018109959,100,Saved
+7475,00:09:51.328,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.16923968,96,Blocked
+7475,00:16:11.674,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.040491626,98,Off T
+7475,00:19:27.458,16,Shot,761,Chicago Red Stars,6812,Vanessa DiBernardo,0.027795482,98,Off T
+7475,00:21:21.640,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.16569929,96,Blocked
+7475,00:21:22.672,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.048428353,96,Blocked
+7475,00:21:35.508,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.01342073,97,Goal
+7475,00:23:41.330,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.24049544,97,Goal
+7475,00:25:44.051,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.04777624,100,Saved
+7475,00:27:11.753,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.055925682,98,Off T
+7475,00:34:20.379,16,Shot,761,Chicago Red Stars,6811,Julie Ertz,0.020310335,96,Blocked
+7475,00:38:42.520,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.19206448,101,Wayward
+7475,00:41:42.557,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.008523625,96,Blocked
+7475,00:41:51.093,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.27309823,97,Goal
+7475,00:47:10.580,16,Shot,761,Chicago Red Stars,4963,Yuki Nagasato,0.76,97,Goal
+7476,00:01:13.590,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.021700703,98,Off T
+7476,00:02:05.261,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.14761135,101,Wayward
+7476,00:06:39.497,16,Shot,763,Sky Blue FC,7180,Imani Dorsey,0.31885505,100,Saved
+7476,00:10:46.339,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.19430652,100,Saved
+7476,00:15:32.325,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.15569112,100,Saved
+7476,00:16:51.626,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.20172067,96,Blocked
+7476,00:20:15.500,16,Shot,761,Chicago Red Stars,4963,Yuki Nagasato,0.3278844,100,Saved
+7476,00:27:56.679,16,Shot,761,Chicago Red Stars,4953,Alyssa Mautz,0,100,Saved
+7476,00:34:51.082,16,Shot,761,Chicago Red Stars,5103,Michele Vasconcelos,0.32090536,98,Off T
+7476,00:39:14.453,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.051895875,97,Goal
+7476,00:40:27.617,16,Shot,761,Chicago Red Stars,4963,Yuki Nagasato,0.014154664,96,Blocked
+7476,00:42:08.970,16,Shot,761,Chicago Red Stars,4953,Alyssa Mautz,0.16676785,101,Wayward
+7476,00:42:10.560,16,Shot,761,Chicago Red Stars,6811,Julie Ertz,0.57189274,100,Saved
+7476,00:44:53.677,16,Shot,763,Sky Blue FC,7180,Imani Dorsey,0.08476737,100,Saved
+7476,00:00:21.835,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.083486095,97,Goal
+7476,00:01:55.428,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.16733225,98,Off T
+7476,00:02:37.449,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.03570246,98,Off T
+7476,00:11:00.652,16,Shot,761,Chicago Red Stars,4947,Danielle Colaprico,0.014802326,98,Off T
+7476,00:17:27.948,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.30896872,97,Goal
+7476,00:18:36.645,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.19818611,100,Saved
+7476,00:19:48.948,16,Shot,763,Sky Blue FC,4968,Madison Tiernan,0.022620535,98,Off T
+7476,00:21:35.426,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.092562,98,Off T
+7476,00:23:00.358,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.04827691,100,Saved
+7476,00:27:15.936,16,Shot,763,Sky Blue FC,7180,Imani Dorsey,0.22506262,97,Goal
+7476,00:28:45.030,16,Shot,761,Chicago Red Stars,7179,Casey Short,0.017658208,100,Saved
+7476,00:30:41.107,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.22872083,101,Wayward
+7476,00:37:20.383,16,Shot,763,Sky Blue FC,4992,Janine Beckie,0.033296313,98,Off T
+7476,00:39:02.157,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.026094645,100,Saved
+7477,00:01:00.052,16,Shot,765,Portland Thorns FC,5013,Tobin Heath,0.3931525,97,Goal
+7477,00:04:04.066,16,Shot,765,Portland Thorns FC,5013,Tobin Heath,0.013029052,96,Blocked
+7477,00:09:24.763,16,Shot,767,Utah Royals FC,4973,Diana Matheson,0.12286036,100,Saved
+7477,00:23:56.208,16,Shot,765,Portland Thorns FC,5013,Tobin Heath,0.017240662,98,Off T
+7477,00:27:42.432,16,Shot,765,Portland Thorns FC,6818,Hayley Raso,0.0022829163,98,Off T
+7477,00:31:27.420,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.44335717,97,Goal
+7477,00:33:21.572,16,Shot,765,Portland Thorns FC,5004,Ana-Maria Crnogorcevic,0.4910029,97,Goal
+7477,00:00:10.648,16,Shot,765,Portland Thorns FC,6818,Hayley Raso,0.037407737,98,Off T
+7477,00:07:48.795,16,Shot,767,Utah Royals FC,4979,Katrina Gorry,0.0006138465,100,Saved
+7477,00:10:25.845,16,Shot,765,Portland Thorns FC,5095,Ellie Carpenter,0.055362314,100,Saved
+7477,00:13:27.889,16,Shot,765,Portland Thorns FC,5093,Tyler Lussi,0.71560735,97,Goal
+7477,00:21:37.847,16,Shot,765,Portland Thorns FC,5020,Christine Sinclair,0.022903465,100,Saved
+7477,00:23:26.946,16,Shot,767,Utah Royals FC,6817,Christen press,0.12078441,98,Off T
+7477,00:28:24.395,16,Shot,767,Utah Royals FC,6817,Christen press,0.0033479433,96,Blocked
+7477,00:30:11.710,16,Shot,767,Utah Royals FC,4972,Katie Stengel,0.06581912,100,Saved
+7477,00:38:43.096,16,Shot,767,Utah Royals FC,4984,Rachel Corsie,0.07863337,101,Wayward
+7477,00:39:59.752,16,Shot,767,Utah Royals FC,4976,Lo’eau LaBonta,0.0018917617,98,Off T
+7478,00:11:17.875,16,Shot,762,Houston Dash,5105,Sofia Huerta,0.09918917,100,Saved
+7478,00:11:53.634,16,Shot,762,Houston Dash,5045,Amber Brooks,0.023876742,97,Goal
+7478,00:30:51.820,16,Shot,762,Houston Dash,5051,Kealia Ohai,0.014944225,98,Off T
+7478,00:36:57.659,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.08952358,97,Goal
+7478,00:40:45.369,16,Shot,762,Houston Dash,5058,Rachel Daly,0.048231322,98,Off T
+7478,00:44:22.824,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.09638191,98,Off T
+7478,00:01:32.620,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.24066997,100,Saved
+7478,00:01:55.457,16,Shot,760,Seattle Reign FC,5069,Theresa Nielsen,0.012501792,96,Blocked
+7478,00:01:57.002,16,Shot,760,Seattle Reign FC,5075,Elizabeth Addo,0.10358048,98,Off T
+7478,00:02:48.903,16,Shot,760,Seattle Reign FC,4998,Rumi Utsugi,0.015669568,98,Off T
+7478,00:05:05.627,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.06923019,100,Saved
+7478,00:10:55.450,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.76,97,Goal
+7478,00:11:46.366,16,Shot,762,Houston Dash,5058,Rachel Daly,0.24631011,100,Saved
+7478,00:11:53.942,16,Shot,762,Houston Dash,8382,Clare Polkinghorne,0.033979274,96,Blocked
+7478,00:21:31.699,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.46799287,100,Saved
+7478,00:24:25.546,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.16618639,100,Saved
+7478,00:25:32.209,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.024420852,96,Blocked
+7478,00:27:02.554,16,Shot,762,Houston Dash,5051,Kealia Ohai,0.059113055,100,Saved
+7478,00:30:47.395,16,Shot,762,Houston Dash,5053,Linda Maserame Motlhalo,0.036815427,96,Blocked
+7478,00:31:41.171,16,Shot,762,Houston Dash,5058,Rachel Daly,0.031501256,101,Wayward
+7478,00:38:51.681,16,Shot,760,Seattle Reign FC,4994,Nahomi Kawasumi,0.018701382,98,Off T
+7478,00:39:28.037,16,Shot,760,Seattle Reign FC,5001,Allie Long,0.46749517,97,Goal
+7478,00:41:42.725,16,Shot,762,Houston Dash,5105,Sofia Huerta,0.0049901535,98,Off T
+7478,00:45:56.904,16,Shot,762,Houston Dash,5058,Rachel Daly,0.07072468,96,Blocked
+7478,00:50:09.119,16,Shot,762,Houston Dash,8382,Clare Polkinghorne,0.009429356,98,Off T
+7479,00:01:05.348,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.15612195,100,Saved
+7479,00:03:39.587,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.050657757,98,Off T
+7479,00:05:36.739,16,Shot,759,Washington Spirit,4940,Andi Sullivan,0.009589843,100,Saved
+7479,00:06:57.633,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.008790287,100,Saved
+7479,00:08:20.483,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.4788681,98,Off T
+7479,00:09:28.707,16,Shot,764,Orlando Pride,5063,Chioma Ubogagu,0.018859321,100,Saved
+7479,00:10:34.289,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.10997886,98,Off T
+7479,00:11:23.060,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.024447754,98,Off T
+7479,00:19:57.630,16,Shot,759,Washington Spirit,4944,Estefanía Romina Banini Ruiz,0.057464097,98,Off T
+7479,00:21:08.523,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.0088155335,100,Saved
+7479,00:24:24.200,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.025695575,96,Blocked
+7479,00:25:00.087,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.011547804,97,Goal
+7479,00:27:02.809,16,Shot,764,Orlando Pride,5063,Chioma Ubogagu,0.04477822,100,Saved
+7479,00:27:43.599,16,Shot,764,Orlando Pride,5089,Ali Krieger,0.17573224,98,Off T
+7479,00:33:40.892,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.010837494,96,Blocked
+7479,00:34:17.190,16,Shot,764,Orlando Pride,5089,Ali Krieger,0.061119158,96,Blocked
+7479,00:37:14.566,16,Shot,759,Washington Spirit,5029,Tori Huster,0.013751414,100,Saved
+7479,00:43:11.891,16,Shot,759,Washington Spirit,5026,Meggie Dougherty Howard,0.024776857,98,Off T
+7479,00:46:10.814,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.09427667,97,Goal
+7479,00:03:38.164,16,Shot,764,Orlando Pride,5076,Emily van Egmond,0.010200164,98,Off T
+7479,00:06:36.149,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.027801657,96,Blocked
+7479,00:08:07.877,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.010286909,96,Blocked
+7479,00:10:41.540,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.21914302,96,Blocked
+7479,00:12:07.666,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.01338886,100,Saved
+7479,00:12:58.047,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.024095181,100,Saved
+7479,00:14:42.793,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.06604687,96,Blocked
+7479,00:15:25.407,16,Shot,764,Orlando Pride,5071,Monica Hickmann Alves,0.117807664,100,Saved
+7479,00:17:13.820,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.15502854,100,Saved
+7479,00:17:40.892,16,Shot,759,Washington Spirit,4944,Estefanía Romina Banini Ruiz,0.058562998,99,Post
+7479,00:17:43.873,16,Shot,759,Washington Spirit,5026,Meggie Dougherty Howard,0.16904381,96,Blocked
+7479,00:21:57.209,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.08551594,96,Blocked
+7479,00:21:59.904,16,Shot,764,Orlando Pride,7182,Camila Martins Pereira,0.018082757,98,Off T
+7479,00:24:44.237,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.106469736,98,Off T
+7479,00:34:05.936,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.07193226,100,Saved
+7479,00:34:40.498,16,Shot,764,Orlando Pride,5078,Alanna Kennedy,0.04920247,99,Post
+7479,00:35:13.905,16,Shot,764,Orlando Pride,7182,Camila Martins Pereira,0.039450347,100,Saved
+7479,00:36:23.803,16,Shot,764,Orlando Pride,7182,Camila Martins Pereira,0.024143884,96,Blocked
+7479,00:37:11.022,16,Shot,764,Orlando Pride,5078,Alanna Kennedy,0.012242599,98,Off T
+7479,00:40:31.115,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.101474956,97,Goal
+7479,00:42:57.510,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.016899541,96,Blocked
+7479,00:43:28.512,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.006889694,101,Wayward
+7479,00:48:52.469,16,Shot,759,Washington Spirit,5025,Aubrey Bledsoe,0.0701457,101,Wayward
+7479,00:49:00.567,16,Shot,759,Washington Spirit,4950,Whitney Church,0.13956976,96,Blocked
+7479,00:49:02.250,16,Shot,759,Washington Spirit,4950,Whitney Church,0.04948617,96,Blocked
+7480,00:03:36.075,16,Shot,760,Seattle Reign FC,8297,Adriana Leon,0.054566268,98,Off T
+7480,00:04:39.278,16,Shot,767,Utah Royals FC,6817,Christen press,0.016714878,98,Off T
+7480,00:10:25.418,16,Shot,767,Utah Royals FC,5024,Amy Rodriguez,0.43963763,98,Off T
+7480,00:12:29.482,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.06438896,98,Off T
+7480,00:22:11.282,16,Shot,767,Utah Royals FC,4966,Desiree Scott,0.037694354,96,Blocked
+7480,00:29:42.456,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.12052525,96,Blocked
+7480,00:38:48.182,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.037466504,98,Off T
+7480,00:40:44.783,16,Shot,767,Utah Royals FC,4972,Katie Stengel,0.0072470834,98,Off T
+7480,00:01:41.733,16,Shot,767,Utah Royals FC,5024,Amy Rodriguez,0.123519994,98,Off T
+7480,00:06:19.048,16,Shot,767,Utah Royals FC,6817,Christen press,0.03395044,98,Off T
+7480,00:08:15.726,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.07954657,97,Goal
+7480,00:13:14.827,16,Shot,767,Utah Royals FC,4971,Rebecca Moros,0.059401684,98,Off T
+7480,00:16:20.753,16,Shot,767,Utah Royals FC,4975,Gunnhildur Yrsa Jónsdóttir,0.018071752,98,Off T
+7480,00:23:28.358,16,Shot,767,Utah Royals FC,4975,Gunnhildur Yrsa Jónsdóttir,0.060940266,96,Blocked
+7480,00:30:41.748,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.011435497,99,Post
+7480,00:34:34.763,16,Shot,760,Seattle Reign FC,5077,Jasmyne Spencer,0.07997785,98,Off T
+7480,00:43:31.563,16,Shot,767,Utah Royals FC,5028,Katie Bowen,0.018675474,96,Blocked
+7480,00:43:32.374,16,Shot,767,Utah Royals FC,5101,Samantha Johnson,0.062282328,96,Blocked
+7480,00:44:33.694,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.12967692,96,Blocked
+7480,00:46:51.102,16,Shot,760,Seattle Reign FC,5077,Jasmyne Spencer,0.28871316,96,Blocked
+7482,00:01:30.554,16,Shot,766,North Carolina Courage,5037,Abby Erceg,0.02208577,98,Off T
+7482,00:03:02.002,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.019757781,100,Saved
+7482,00:04:27.348,16,Shot,759,Washington Spirit,5026,Meggie Dougherty Howard,0.10095001,101,Wayward
+7482,00:06:13.129,16,Shot,766,North Carolina Courage,5083,Merritt Mathias,0.07769507,96,Blocked
+7482,00:09:19.446,16,Shot,759,Washington Spirit,4941,Taylor Smith,0.008308322,100,Saved
+7482,00:11:07.290,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.68391746,97,Goal
+7482,00:16:41.887,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.063724466,100,Saved
+7482,00:21:38.591,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.030555973,98,Off T
+7482,00:27:17.885,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.07419733,96,Blocked
+7482,00:40:30.934,16,Shot,766,North Carolina Courage,5091,McCall Zerboni,0.04287228,96,Blocked
+7482,00:01:17.277,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.034127902,98,Off T
+7482,00:02:38.919,16,Shot,759,Washington Spirit,5029,Tori Huster,0.04641507,98,Off T
+7482,00:06:12.581,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.043759044,98,Off T
+7482,00:09:45.175,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.2681786,100,Saved
+7482,00:14:10.530,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.04343642,97,Goal
+7482,00:16:03.278,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.023504311,99,Post
+7482,00:16:05.117,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.48200387,98,Off T
+7482,00:17:16.300,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.022857772,96,Blocked
+7482,00:17:46.352,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.0048099277,98,Off T
+7482,00:20:16.054,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.036334038,96,Blocked
+7482,00:23:45.181,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.08305922,98,Off T
+7482,00:26:46.505,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.024944536,96,Blocked
+7482,00:28:32.469,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.40445364,100,Saved
+7482,00:30:47.370,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.0060186586,98,Off T
+7482,00:32:17.444,16,Shot,759,Washington Spirit,4949,Rose Lavelle,0.03514278,98,Off T
+7482,00:33:51.734,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.0014163516,98,Off T
+7482,00:37:21.788,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.09277925,100,Saved
+7482,00:37:59.578,16,Shot,759,Washington Spirit,4943,Estelle Johnson,0.100844696,101,Wayward
+7482,00:44:13.476,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.06766338,96,Blocked
+7483,00:04:41.460,16,Shot,767,Utah Royals FC,5024,Amy Rodriguez,0.31341496,100,Saved
+7483,00:07:19.999,16,Shot,767,Utah Royals FC,5024,Amy Rodriguez,0.4154673,97,Goal
+7483,00:12:15.197,16,Shot,764,Orlando Pride,5086,Rachel Hill,0.12421448,98,Off T
+7483,00:17:18.946,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.14517246,100,Saved
+7483,00:26:53.092,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.019423695,98,Off T
+7483,00:28:05.869,16,Shot,764,Orlando Pride,5078,Alanna Kennedy,0.07680319,98,Off T
+7483,00:33:51.480,16,Shot,764,Orlando Pride,5063,Chioma Ubogagu,0.30322602,98,Off T
+7483,00:42:57.656,16,Shot,767,Utah Royals FC,5028,Katie Bowen,0.014410722,100,Saved
+7483,00:46:02.489,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.76,97,Goal
+7483,00:02:12.785,16,Shot,767,Utah Royals FC,5024,Amy Rodriguez,0.20315555,98,Off T
+7483,00:06:49.635,16,Shot,764,Orlando Pride,5068,Kristen Edmonds,0.15331993,97,Goal
+7483,00:13:29.328,16,Shot,767,Utah Royals FC,5024,Amy Rodriguez,0.09241217,96,Blocked
+7483,00:13:35.516,16,Shot,767,Utah Royals FC,6817,Christen press,0.0340332,98,Off T
+7483,00:19:10.679,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.3048713,96,Blocked
+7483,00:20:06.941,16,Shot,764,Orlando Pride,5078,Alanna Kennedy,0.011398668,98,Off T
+7483,00:27:32.785,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.034775324,100,Saved
+7483,00:29:49.441,16,Shot,767,Utah Royals FC,4975,Gunnhildur Yrsa Jónsdóttir,0.06294059,101,Wayward
+7483,00:31:01.936,16,Shot,764,Orlando Pride,5063,Chioma Ubogagu,0.010352282,96,Blocked
+7483,00:31:07.338,16,Shot,764,Orlando Pride,8199,Toni Pressley,0.023601275,98,Off T
+7483,00:34:26.524,16,Shot,764,Orlando Pride,5086,Rachel Hill,0.047951985,100,Saved
+7483,00:48:42.732,16,Shot,767,Utah Royals FC,4984,Rachel Corsie,0.07209413,98,Off T
+7483,00:50:46.716,16,Shot,767,Utah Royals FC,6817,Christen press,0.004264413,98,Off T
+7484,00:03:19.137,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.07350879,98,Off T
+7484,00:05:01.713,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.05631416,98,Off T
+7484,00:06:43.914,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.17085318,101,Wayward
+7484,00:06:50.933,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.09822809,100,Saved
+7484,00:06:52.037,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.3465824,98,Off T
+7484,00:07:40.873,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.2865825,100,Saved
+7484,00:10:43.009,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.046823706,98,Off T
+7484,00:12:42.251,16,Shot,763,Sky Blue FC,4980,Thaysa de Moraes Rosa Moreno,0.1796834,96,Blocked
+7484,00:14:33.299,16,Shot,766,North Carolina Courage,5037,Abby Erceg,0.30133966,97,Goal
+7484,00:16:35.717,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.32593086,96,Blocked
+7484,00:24:34.065,16,Shot,763,Sky Blue FC,5096,Savannah McCaskill,0.27943647,100,Saved
+7484,00:29:01.017,16,Shot,763,Sky Blue FC,5096,Savannah McCaskill,0.038806017,98,Off T
+7484,00:32:03.908,16,Shot,763,Sky Blue FC,4986,Shea Groom,0.011712668,100,Saved
+7484,00:34:09.525,16,Shot,763,Sky Blue FC,4988,Sarah Killion,0.26406175,99,Post
+7484,00:35:00.278,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.58293796,98,Off T
+7484,00:35:56.726,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.016741328,100,Saved
+7484,00:37:22.823,16,Shot,766,North Carolina Courage,5037,Abby Erceg,0.020553188,101,Wayward
+7484,00:38:20.705,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.035217896,98,Off T
+7484,00:39:28.828,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.032307904,96,Blocked
+7484,00:41:49.395,16,Shot,763,Sky Blue FC,7180,Imani Dorsey,0.24766278,100,Saved
+7484,00:03:42.510,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.09717659,96,Blocked
+7484,00:06:20.227,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.07574744,100,Saved
+7484,00:09:21.931,16,Shot,763,Sky Blue FC,5096,Savannah McCaskill,0.086957514,98,Off T
+7484,00:10:08.313,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.6563366,97,Goal
+7484,00:11:33.037,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.016718904,98,Off T
+7484,00:13:33.835,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.34044597,100,Saved
+7484,00:13:41.211,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.034964826,98,Off T
+7484,00:21:14.354,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.014901155,98,Off T
+7484,00:25:42.708,16,Shot,763,Sky Blue FC,7180,Imani Dorsey,0.007751182,98,Off T
+7484,00:26:19.389,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.3784764,97,Goal
+7484,00:27:48.504,16,Shot,763,Sky Blue FC,7180,Imani Dorsey,0.0066016633,100,Saved
+7484,00:30:33.325,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.41904968,100,Saved
+7484,00:34:26.262,16,Shot,763,Sky Blue FC,4992,Janine Beckie,0.0046319677,96,Blocked
+7484,00:38:35.475,16,Shot,766,North Carolina Courage,6814,Heather O'Reilly,0.016814005,100,Saved
+7484,00:43:50.256,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.51733595,97,Goal
+7484,00:45:28.466,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.16697964,100,Saved
+7484,00:46:28.468,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.09336597,100,Saved
+7485,00:02:40.153,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.048939418,101,Wayward
+7485,00:06:57.578,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.022166545,98,Off T
+7485,00:12:04.095,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.025324004,100,Saved
+7485,00:14:24.747,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.06257084,98,Off T
+7485,00:18:34.307,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.022449723,96,Blocked
+7485,00:18:36.238,16,Shot,761,Chicago Red Stars,6812,Vanessa DiBernardo,0.0420995,96,Blocked
+7485,00:21:05.134,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.37695074,100,Saved
+7485,00:25:39.653,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.035607062,100,Saved
+7485,00:28:07.504,16,Shot,760,Seattle Reign FC,5016,Jessica Fishlock,0.007522743,98,Off T
+7485,00:28:57.373,16,Shot,761,Chicago Red Stars,6812,Vanessa DiBernardo,0.017857525,100,Saved
+7485,00:45:04.907,16,Shot,761,Chicago Red Stars,6812,Vanessa DiBernardo,0.046953376,98,Off T
+7485,00:48:27.483,16,Shot,761,Chicago Red Stars,6813,Morgan brain,0.048804156,96,Blocked
+7485,00:49:33.388,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.11947996,100,Saved
+7485,00:02:15.842,16,Shot,761,Chicago Red Stars,6812,Vanessa DiBernardo,0.01428356,98,Off T
+7485,00:02:51.086,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.023688434,98,Off T
+7485,00:06:27.374,16,Shot,761,Chicago Red Stars,4947,Danielle Colaprico,0.04986015,96,Blocked
+7485,00:10:43.988,16,Shot,761,Chicago Red Stars,4953,Alyssa Mautz,0.018376067,98,Off T
+7485,00:12:40.972,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.045450088,101,Wayward
+7485,00:15:51.908,16,Shot,760,Seattle Reign FC,8297,Adriana Leon,0.04696954,98,Off T
+7485,00:21:08.533,16,Shot,761,Chicago Red Stars,6812,Vanessa DiBernardo,0.024754196,96,Blocked
+7485,00:21:13.343,16,Shot,761,Chicago Red Stars,6813,Morgan brain,0.013686076,96,Blocked
+7485,00:24:00.599,16,Shot,761,Chicago Red Stars,6812,Vanessa DiBernardo,0.0017265159,98,Off T
+7485,00:25:45.655,16,Shot,760,Seattle Reign FC,5001,Allie Long,0.26022178,98,Off T
+7485,00:28:54.048,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.017999966,98,Off T
+7485,00:31:14.641,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.16168816,100,Saved
+7485,00:32:01.920,16,Shot,761,Chicago Red Stars,6813,Morgan brain,0.07671344,98,Off T
+7485,00:32:51.041,16,Shot,760,Seattle Reign FC,5077,Jasmyne Spencer,0.20775022,100,Saved
+7485,00:33:34.601,16,Shot,760,Seattle Reign FC,5016,Jessica Fishlock,0.069100894,98,Off T
+7485,00:35:31.187,16,Shot,760,Seattle Reign FC,8298,Megan Rapinoe,0.116596356,96,Blocked
+7485,00:35:40.843,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.18236685,98,Off T
+7485,00:41:40.242,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.4172739,97,Goal
+7485,00:44:20.604,16,Shot,761,Chicago Red Stars,4948,Rosie White,0.034750238,100,Saved
+7485,00:48:56.224,16,Shot,760,Seattle Reign FC,5077,Jasmyne Spencer,0.41144145,98,Off T
+7486,00:05:45.148,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.16300374,100,Saved
+7486,00:07:29.647,16,Shot,765,Portland Thorns FC,6818,Hayley Raso,0.16686685,101,Wayward
+7486,00:15:24.206,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.31548604,97,Goal
+7486,00:17:50.613,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.011230983,100,Saved
+7486,00:29:12.498,16,Shot,765,Portland Thorns FC,5004,Ana-Maria Crnogorcevic,0.13035354,98,Off T
+7486,00:30:46.852,16,Shot,765,Portland Thorns FC,5004,Ana-Maria Crnogorcevic,0.03851918,99,Post
+7486,00:30:48.862,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.5850513,97,Goal
+7486,00:36:10.367,16,Shot,762,Houston Dash,4959,Taylor Comeau,0.01719578,100,Saved
+7486,00:36:12.802,16,Shot,762,Houston Dash,5051,Kealia Ohai,0.72476804,97,Goal
+7486,00:40:17.123,16,Shot,762,Houston Dash,5058,Rachel Daly,0.12126536,96,Blocked
+7486,00:43:50.426,16,Shot,762,Houston Dash,8382,Clare Polkinghorne,0.061194126,100,Saved
+7486,00:44:33.487,16,Shot,765,Portland Thorns FC,5020,Christine Sinclair,0.033612486,96,Blocked
+7486,00:45:21.306,16,Shot,765,Portland Thorns FC,5013,Tobin Heath,0.009168396,96,Blocked
+7486,00:01:28.377,16,Shot,762,Houston Dash,5043,Nichelle Prince,0.042301476,96,Blocked
+7486,00:02:33.964,16,Shot,765,Portland Thorns FC,5004,Ana-Maria Crnogorcevic,0.35902566,97,Goal
+7486,00:07:03.739,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.0141926715,98,Off T
+7486,00:07:37.562,16,Shot,765,Portland Thorns FC,4999,Lindsey Horan,0.045645684,98,Off T
+7486,00:10:26.393,16,Shot,762,Houston Dash,5045,Amber Brooks,0.01928786,98,Off T
+7486,00:25:59.297,16,Shot,765,Portland Thorns FC,6818,Hayley Raso,0.2102172,100,Saved
+7486,00:27:09.737,16,Shot,765,Portland Thorns FC,5013,Tobin Heath,0.09004042,98,Off T
+7486,00:27:31.512,16,Shot,765,Portland Thorns FC,5013,Tobin Heath,0.021777064,98,Off T
+7486,00:30:18.594,16,Shot,765,Portland Thorns FC,6818,Hayley Raso,0.02402081,100,Saved
+7486,00:32:32.126,16,Shot,762,Houston Dash,5058,Rachel Daly,0.09008666,99,Post
+7486,00:33:40.929,16,Shot,765,Portland Thorns FC,5020,Christine Sinclair,0.0929977,100,Saved
+7486,00:40:46.173,16,Shot,765,Portland Thorns FC,5093,Tyler Lussi,0.24910296,98,Off T
+7486,00:43:52.952,16,Shot,762,Houston Dash,5043,Nichelle Prince,0.30846888,101,Wayward
+7486,00:47:03.660,16,Shot,765,Portland Thorns FC,5093,Tyler Lussi,0.16324599,100,Saved
+7487,00:04:25.305,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.019501742,96,Blocked
+7487,00:05:01.948,16,Shot,766,North Carolina Courage,5037,Abby Erceg,0.05318398,101,Wayward
+7487,00:05:05.097,16,Shot,766,North Carolina Courage,5037,Abby Erceg,0.06256754,100,Saved
+7487,00:07:42.771,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.026019897,98,Off T
+7487,00:20:34.210,16,Shot,766,North Carolina Courage,5037,Abby Erceg,0.015621953,98,Off T
+7487,00:22:07.933,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.10465374,96,Blocked
+7487,00:24:38.658,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.047256865,96,Blocked
+7487,00:32:14.215,16,Shot,767,Utah Royals FC,4973,Diana Matheson,0.063710466,96,Blocked
+7487,00:34:01.488,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.044330493,98,Off T
+7487,00:44:58.023,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.13803433,98,Off T
+7487,00:02:57.949,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.1292587,101,Wayward
+7487,00:06:52.297,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.08247952,96,Blocked
+7487,00:07:47.288,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.20488924,100,Saved
+7487,00:08:54.646,16,Shot,767,Utah Royals FC,4972,Katie Stengel,0.1115104,96,Blocked
+7487,00:11:44.945,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.007795179,98,Off T
+7487,00:16:10.794,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.037149526,98,Off T
+7487,00:23:01.848,16,Shot,766,North Carolina Courage,5084,Denise O'Sullivan,0.02287735,98,Off T
+7487,00:24:50.975,16,Shot,767,Utah Royals FC,5028,Katie Bowen,0.0075176386,100,Saved
+7487,00:28:43.828,16,Shot,767,Utah Royals FC,5101,Samantha Johnson,0.064317666,98,Off T
+7487,00:40:20.991,16,Shot,767,Utah Royals FC,5027,Erika Tymrak,0.001435121,98,Off T
+7487,00:42:09.113,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.1383989,96,Blocked
+7487,00:42:53.728,16,Shot,766,North Carolina Courage,5033,Yuri Kawamura,0.009250818,101,Wayward
+7487,00:43:07.943,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.013041961,96,Blocked
+7487,00:43:55.517,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.09396505,98,Off T
+7490,00:03:10.763,16,Shot,765,Portland Thorns FC,6818,Hayley Raso,0.16878259,97,Goal
+7490,00:06:07.891,16,Shot,765,Portland Thorns FC,5004,Ana-Maria Crnogorcevic,0.12730682,97,Goal
+7490,00:08:36.741,16,Shot,765,Portland Thorns FC,5020,Christine Sinclair,0.064435095,96,Blocked
+7490,00:09:07.510,16,Shot,765,Portland Thorns FC,6818,Hayley Raso,0.02952226,96,Blocked
+7490,00:24:49.975,16,Shot,765,Portland Thorns FC,5020,Christine Sinclair,0.06646649,98,Off T
+7490,00:25:54.648,16,Shot,763,Sky Blue FC,4986,Shea Groom,0.088904195,98,Off T
+7490,00:26:57.372,16,Shot,763,Sky Blue FC,7180,Imani Dorsey,0.33989555,97,Goal
+7490,00:33:36.221,16,Shot,763,Sky Blue FC,7180,Imani Dorsey,0.20028809,98,Off T
+7490,00:42:53.612,16,Shot,763,Sky Blue FC,5096,Savannah McCaskill,0.036240455,98,Off T
+7490,00:43:34.026,16,Shot,765,Portland Thorns FC,6818,Hayley Raso,0.037557833,98,Off T
+7490,00:46:02.103,16,Shot,765,Portland Thorns FC,5012,Katherine Reynolds,0.061311863,98,Off T
+7490,00:15:35.137,16,Shot,763,Sky Blue FC,4986,Shea Groom,0.33630285,99,Post
+7490,00:15:38.118,16,Shot,763,Sky Blue FC,7180,Imani Dorsey,0.03923738,98,Off T
+7490,00:16:21.231,16,Shot,763,Sky Blue FC,5096,Savannah McCaskill,0.10673172,100,Saved
+7490,00:25:27.505,16,Shot,765,Portland Thorns FC,5093,Tyler Lussi,0.010861287,96,Blocked
+7490,00:26:14.189,16,Shot,765,Portland Thorns FC,5093,Tyler Lussi,0.00033333333,100,Saved
+7490,00:32:18.742,16,Shot,765,Portland Thorns FC,5093,Tyler Lussi,0.11276985,98,Off T
+7490,00:33:30.232,16,Shot,763,Sky Blue FC,4967,Raquel Rodriguez,0.10652047,96,Blocked
+7490,00:35:39.624,16,Shot,763,Sky Blue FC,4967,Raquel Rodriguez,0.038314246,99,Post
+7490,00:42:01.399,16,Shot,763,Sky Blue FC,4992,Janine Beckie,0.14249146,98,Off T
+7490,00:44:16.295,16,Shot,763,Sky Blue FC,4970,Amanda Frisbie,0.053572558,100,Saved
+7490,00:46:27.148,16,Shot,763,Sky Blue FC,4992,Janine Beckie,0.09706624,100,Saved
+7490,00:47:55.506,16,Shot,763,Sky Blue FC,4978,Dominique Richardson,0.02165424,98,Off T
+7490,00:48:38.918,16,Shot,763,Sky Blue FC,7180,Imani Dorsey,0.24728711,100,Saved
+7490,00:48:40.613,16,Shot,763,Sky Blue FC,4992,Janine Beckie,0.167738,96,Blocked
+7490,00:49:09.908,16,Shot,763,Sky Blue FC,4967,Raquel Rodriguez,0.050199676,96,Blocked
+7490,00:49:11.244,16,Shot,763,Sky Blue FC,4988,Sarah Killion,0.10933853,96,Blocked
+7492,00:23:45.600,16,Shot,764,Orlando Pride,5062,Dani Weatherholt,0.12511022,101,Wayward
+7492,00:27:49.982,16,Shot,763,Sky Blue FC,7180,Imani Dorsey,0.3173467,100,Saved
+7492,00:32:52.719,16,Shot,763,Sky Blue FC,4967,Raquel Rodriguez,0.09392592,96,Blocked
+7492,00:41:45.812,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.13391311,99,Post
+7492,00:41:48.424,16,Shot,764,Orlando Pride,5062,Dani Weatherholt,0.32054508,100,Saved
+7492,00:42:57.355,16,Shot,764,Orlando Pride,5076,Emily van Egmond,0.09273827,98,Off T
+7492,00:44:15.083,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.108338505,96,Blocked
+7492,00:04:58.608,16,Shot,764,Orlando Pride,5062,Dani Weatherholt,0.02421659,100,Saved
+7492,00:05:01.198,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.6748672,97,Goal
+7492,00:06:39.664,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.27127698,99,Post
+7492,00:07:41.652,16,Shot,763,Sky Blue FC,7180,Imani Dorsey,0.3286545,97,Goal
+7492,00:08:44.831,16,Shot,764,Orlando Pride,5062,Dani Weatherholt,0.031021029,98,Off T
+7492,00:13:18.482,16,Shot,763,Sky Blue FC,4986,Shea Groom,0.15302916,97,Goal
+7492,00:18:38.352,16,Shot,764,Orlando Pride,5078,Alanna Kennedy,0.12789635,100,Saved
+7492,00:19:34.842,16,Shot,764,Orlando Pride,5078,Alanna Kennedy,0.15648931,98,Off T
+7492,00:23:14.346,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.1140161,100,Saved
+7492,00:23:52.118,16,Shot,763,Sky Blue FC,4967,Raquel Rodriguez,0.06026334,100,Saved
+7492,00:25:13.940,16,Shot,764,Orlando Pride,5078,Alanna Kennedy,0.07712131,98,Off T
+7492,00:27:24.685,16,Shot,764,Orlando Pride,5062,Dani Weatherholt,0.8218112,97,Goal
+7492,00:30:14.756,16,Shot,763,Sky Blue FC,5096,Savannah McCaskill,0.045813918,100,Saved
+7492,00:33:08.373,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.054484542,100,Saved
+7492,00:34:51.776,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.12080175,98,Off T
+7492,00:36:37.552,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.26992813,99,Post
+7492,00:39:12.949,16,Shot,764,Orlando Pride,5062,Dani Weatherholt,0.13799994,96,Blocked
+7492,00:39:14.794,16,Shot,764,Orlando Pride,7182,Camila Martins Pereira,0.113460846,96,Blocked
+7492,00:42:47.339,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.02599496,96,Blocked
+7492,00:43:00.888,16,Shot,764,Orlando Pride,7182,Camila Martins Pereira,0.012072432,98,Off T
+7492,00:48:35.744,16,Shot,763,Sky Blue FC,5097,Carli Lloyd,0.055413578,98,Off T
+7492,00:50:13.456,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.16975445,101,Wayward
+7492,00:50:14.579,16,Shot,764,Orlando Pride,5076,Emily van Egmond,0.23965731,96,Blocked
+7492,00:51:33.692,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.76,100,Saved
+7492,00:52:04.160,16,Shot,764,Orlando Pride,5063,Chioma Ubogagu,0.03672623,98,Off T
+7494,00:01:49.708,16,Shot,762,Houston Dash,5058,Rachel Daly,0.018679863,96,Blocked
+7494,00:05:11.516,16,Shot,767,Utah Royals FC,6817,Christen press,0.008334424,100,Saved
+7494,00:07:49.708,16,Shot,762,Houston Dash,5043,Nichelle Prince,0.024883362,98,Off T
+7494,00:18:04.774,16,Shot,767,Utah Royals FC,4975,Gunnhildur Yrsa Jónsdóttir,0.0080031715,96,Blocked
+7494,00:19:03.837,16,Shot,762,Houston Dash,5105,Sofia Huerta,0.31526837,98,Off T
+7494,00:29:26.809,16,Shot,767,Utah Royals FC,5028,Katie Bowen,0.019223101,98,Off T
+7494,00:40:15.321,16,Shot,762,Houston Dash,5039,Veronica Latsko,0.1022274,97,Goal
+7494,00:42:11.977,16,Shot,767,Utah Royals FC,5024,Amy Rodriguez,0.033263728,100,Saved
+7494,00:09:25.285,16,Shot,767,Utah Royals FC,4975,Gunnhildur Yrsa Jónsdóttir,0.20524639,98,Off T
+7494,00:15:28.976,16,Shot,767,Utah Royals FC,4979,Katrina Gorry,0.01713126,96,Blocked
+7494,00:19:01.633,16,Shot,762,Houston Dash,5105,Sofia Huerta,0.014083139,98,Off T
+7494,00:20:17.429,16,Shot,762,Houston Dash,5105,Sofia Huerta,0.1543051,100,Saved
+7494,00:20:23.765,16,Shot,762,Houston Dash,5059,Kyah Simon,0.013925756,98,Off T
+7494,00:22:52.623,16,Shot,762,Houston Dash,5051,Kealia Ohai,0.07098118,100,Saved
+7494,00:24:30.638,16,Shot,762,Houston Dash,5043,Nichelle Prince,0.109469414,100,Saved
+7494,00:25:45.952,16,Shot,762,Houston Dash,5058,Rachel Daly,0.025669895,98,Off T
+7494,00:31:11.529,16,Shot,767,Utah Royals FC,6817,Christen press,0.32637697,97,Goal
+7494,00:33:06.720,16,Shot,762,Houston Dash,5043,Nichelle Prince,0.026411958,98,Off T
+7494,00:34:48.436,16,Shot,762,Houston Dash,5105,Sofia Huerta,0.0031989096,98,Off T
+7494,00:36:24.077,16,Shot,762,Houston Dash,5059,Kyah Simon,0.0061108647,101,Wayward
+7494,00:36:33.367,16,Shot,762,Houston Dash,5052,Thembi Kgatlana,0.04945942,100,Saved
+7494,00:37:12.902,16,Shot,767,Utah Royals FC,4972,Katie Stengel,0.56078583,97,Goal
+7494,00:40:12.002,16,Shot,762,Houston Dash,5052,Thembi Kgatlana,0.3265428,98,Off T
+7494,00:42:54.215,16,Shot,762,Houston Dash,5105,Sofia Huerta,0.003228111,98,Off T
+7494,00:46:02.001,16,Shot,767,Utah Royals FC,4972,Katie Stengel,0.4142802,100,Saved
+7519,00:02:41.147,16,Shot,765,Portland Thorns FC,5004,Ana-Maria Crnogorcevic,0.30066028,98,Off T
+7519,00:06:02.267,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.4176756,98,Off T
+7519,00:26:49.667,16,Shot,765,Portland Thorns FC,5004,Ana-Maria Crnogorcevic,0.18069023,100,Saved
+7519,00:27:33.027,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.070861705,98,Off T
+7519,00:28:28.867,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.043196276,96,Blocked
+7519,00:28:58.027,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.09520082,96,Blocked
+7519,00:30:47.907,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.76,97,Goal
+7519,00:36:39.787,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.8255395,98,Off T
+7519,00:38:22.627,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.05597862,100,Saved
+7519,00:40:44.320,16,Shot,765,Portland Thorns FC,5013,Tobin Heath,0.010502852,98,Off T
+7519,00:02:33.230,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.011768549,96,Blocked
+7519,00:04:17.710,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.27010405,96,Blocked
+7519,00:09:56.630,16,Shot,765,Portland Thorns FC,5094,Ifeoma Onumonu,0.11661709,100,Saved
+7519,00:12:06.390,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.198127,97,Goal
+7519,00:16:44.470,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.4498178,97,Goal
+7519,00:17:57.470,16,Shot,766,North Carolina Courage,5055,Lynn Williams,0.30204633,100,Saved
+7519,00:18:37.510,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.011541747,101,Wayward
+7519,00:18:38.150,16,Shot,766,North Carolina Courage,5091,McCall Zerboni,0.26956794,96,Blocked
+7519,00:18:38.870,16,Shot,766,North Carolina Courage,5087,Samantha Mewis,0.628897,97,Goal
+7519,00:22:31.030,16,Shot,765,Portland Thorns FC,5020,Christine Sinclair,0.07400068,98,Off T
+7519,00:31:50.550,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.060675073,98,Off T
+7519,00:34:32.550,16,Shot,765,Portland Thorns FC,5018,Andressa Cavalari Machry,0.056038406,100,Saved
+7519,00:36:01.230,16,Shot,766,North Carolina Courage,5080,Kristen Hamilton,0.31423545,96,Blocked
+7519,00:37:58.950,16,Shot,766,North Carolina Courage,5088,Crystal Alyssia Dunn,0.06545451,100,Saved
+7519,00:39:43.870,16,Shot,765,Portland Thorns FC,5020,Christine Sinclair,0.080528684,100,Saved
+7519,00:41:32.350,16,Shot,765,Portland Thorns FC,5013,Tobin Heath,0.017085511,98,Off T
+7519,00:43:30.910,16,Shot,765,Portland Thorns FC,5012,Katherine Reynolds,0.10041229,97,Goal
+7520,00:01:36.793,16,Shot,761,Chicago Red Stars,4953,Alyssa Mautz,0.11571074,98,Off T
+7520,00:04:11.553,16,Shot,759,Washington Spirit,4944,Estefanía Romina Banini Ruiz,0.05434584,100,Saved
+7520,00:07:00.193,16,Shot,761,Chicago Red Stars,4948,Rosie White,0.32033405,101,Wayward
+7520,00:09:01.473,16,Shot,761,Chicago Red Stars,4953,Alyssa Mautz,0.07041557,98,Off T
+7520,00:15:20.086,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.013649264,96,Blocked
+7520,00:17:07.953,16,Shot,761,Chicago Red Stars,4965,Nikki Stanton,0.061624113,96,Blocked
+7520,00:24:47.513,16,Shot,761,Chicago Red Stars,4963,Yuki Nagasato,0.010498983,100,Saved
+7520,00:24:49.913,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.20102417,97,Goal
+7520,00:32:10.193,16,Shot,759,Washington Spirit,4945,Havana Solaun,0.01949077,98,Off T
+7520,00:38:46.233,16,Shot,759,Washington Spirit,4945,Havana Solaun,0.039898165,96,Blocked
+7520,00:46:09.713,16,Shot,759,Washington Spirit,4945,Havana Solaun,0.03706906,98,Off T
+7520,00:00:38.600,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.062309016,100,Saved
+7520,00:02:53.520,16,Shot,761,Chicago Red Stars,4963,Yuki Nagasato,0.044957526,97,Goal
+7520,00:16:18.440,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.10184781,96,Blocked
+7520,00:18:52.840,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.27767828,98,Off T
+7520,00:19:41.280,16,Shot,759,Washington Spirit,4949,Rose Lavelle,0.024109425,96,Blocked
+7520,00:26:48.480,16,Shot,761,Chicago Red Stars,4961,Samantha Kerr,0.09020385,96,Blocked
+7520,00:42:31.640,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.017960135,98,Off T
+7520,00:45:42.320,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.05519837,100,Saved
+7520,00:46:49.640,16,Shot,759,Washington Spirit,4964,Ashley Hatch,0.27505925,100,Saved
+7520,00:46:54.560,16,Shot,759,Washington Spirit,4956,Mallory Eubanks,0.03951196,98,Off T
+7521,00:02:11.080,16,Shot,767,Utah Royals FC,4973,Diana Matheson,0.41774684,97,Goal
+7521,00:08:39.040,16,Shot,763,Sky Blue FC,4986,Shea Groom,0.09077192,97,Goal
+7521,00:10:13.520,16,Shot,767,Utah Royals FC,4983,Brooke Elby,0.012037061,96,Blocked
+7521,00:10:54.160,16,Shot,767,Utah Royals FC,4973,Diana Matheson,0.12553018,98,Off T
+7521,00:19:45.653,16,Shot,763,Sky Blue FC,4980,Thaysa de Moraes Rosa Moreno,0.05826009,98,Off T
+7521,00:29:15.080,16,Shot,767,Utah Royals FC,4979,Katrina Gorry,0.0703093,98,Off T
+7521,00:40:36.400,16,Shot,767,Utah Royals FC,4972,Katie Stengel,0.10294843,100,Saved
+7521,00:40:42.120,16,Shot,767,Utah Royals FC,4984,Rachel Corsie,0.35709792,101,Wayward
+7521,00:43:58.853,16,Shot,763,Sky Blue FC,4992,Janine Beckie,0.046661027,96,Blocked
+7521,00:45:33.973,16,Shot,763,Sky Blue FC,4992,Janine Beckie,0.056853436,100,Saved
+7521,00:06:58.027,16,Shot,763,Sky Blue FC,4986,Shea Groom,0.020310396,101,Wayward
+7521,00:09:31.227,16,Shot,763,Sky Blue FC,4968,Madison Tiernan,0.03319619,98,Off T
+7521,00:14:39.147,16,Shot,763,Sky Blue FC,4980,Thaysa de Moraes Rosa Moreno,0.34350902,101,Wayward
+7521,00:16:46.547,16,Shot,767,Utah Royals FC,4979,Katrina Gorry,0.061871443,100,Saved
+7521,00:18:30.667,16,Shot,763,Sky Blue FC,4986,Shea Groom,0.054676738,101,Wayward
+7521,00:26:11.027,16,Shot,767,Utah Royals FC,4979,Katrina Gorry,0.017941035,100,Saved
+7521,00:30:30.560,16,Shot,763,Sky Blue FC,4992,Janine Beckie,0.008691573,100,Saved
+7521,00:38:41.747,16,Shot,763,Sky Blue FC,4978,Dominique Richardson,0.0055889194,100,Saved
+7522,00:03:26.480,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.0052735214,98,Off T
+7522,00:05:05.600,16,Shot,762,Houston Dash,5059,Kyah Simon,0.008850899,100,Saved
+7522,00:08:40.200,16,Shot,762,Houston Dash,5058,Rachel Daly,0.17390199,98,Off T
+7522,00:16:14.400,16,Shot,762,Houston Dash,5058,Rachel Daly,0.06640716,98,Off T
+7522,00:16:48.720,16,Shot,762,Houston Dash,5059,Kyah Simon,0.011898959,96,Blocked
+7522,00:21:03.200,16,Shot,762,Houston Dash,5051,Kealia Ohai,0.09633506,98,Off T
+7522,00:30:46.960,16,Shot,762,Houston Dash,5053,Linda Maserame Motlhalo,0.017022481,96,Blocked
+7522,00:37:28.400,16,Shot,766,North Carolina Courage,5044,Débora Cristiane de Oliveira,0.027944531,100,Saved
+7522,00:44:54.960,16,Shot,762,Houston Dash,5059,Kyah Simon,0.008476129,98,Off T
+7522,00:02:25.880,16,Shot,762,Houston Dash,5040,Meleana Shim,0.031025106,96,Blocked
+7522,00:03:32.840,16,Shot,762,Houston Dash,5051,Kealia Ohai,0.6211738,97,Goal
+7522,00:10:26.400,16,Shot,762,Houston Dash,5058,Rachel Daly,0.013371328,98,Off T
+7522,00:16:49.160,16,Shot,766,North Carolina Courage,5036,Darian Jenkins,0.011523063,98,Off T
+7522,00:19:34.440,16,Shot,766,North Carolina Courage,5042,Frannie Crouse,0.024092386,98,Off T
+7522,00:21:11.720,16,Shot,766,North Carolina Courage,5034,Jessica McDonald,0.003170608,100,Saved
+7522,00:24:06.520,16,Shot,766,North Carolina Courage,5037,Abby Erceg,0.020724174,98,Off T
+7522,00:34:00.840,16,Shot,766,North Carolina Courage,5042,Frannie Crouse,0.6473749,97,Goal
+7522,00:36:19.880,16,Shot,762,Houston Dash,5052,Thembi Kgatlana,0.025370413,98,Off T
+7522,00:39:15.613,16,Shot,762,Houston Dash,5039,Veronica Latsko,0.0037296824,98,Off T
+7522,00:41:31.560,16,Shot,762,Houston Dash,5035,Haley Hanson,0.023768153,96,Blocked
+7523,00:01:01.310,16,Shot,764,Orlando Pride,5063,Chioma Ubogagu,0.033663064,101,Wayward
+7523,00:03:34.510,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.16525657,98,Off T
+7523,00:08:45.150,16,Shot,760,Seattle Reign FC,5016,Jessica Fishlock,0.06987159,98,Off T
+7523,00:13:22.883,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.044045094,100,Saved
+7523,00:14:21.850,16,Shot,760,Seattle Reign FC,4998,Rumi Utsugi,0.012622446,96,Blocked
+7523,00:14:24.843,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.2381857,101,Wayward
+7523,00:14:45.110,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.1269307,96,Blocked
+7523,00:17:44.390,16,Shot,760,Seattle Reign FC,4994,Nahomi Kawasumi,0.038268838,100,Saved
+7523,00:17:46.310,16,Shot,760,Seattle Reign FC,5073,Kiersten Dallstream,0.09008023,96,Blocked
+7523,00:20:26.710,16,Shot,760,Seattle Reign FC,5016,Jessica Fishlock,0.020207567,100,Saved
+7523,00:21:32.350,16,Shot,764,Orlando Pride,5078,Alanna Kennedy,0.028753493,99,Post
+7523,00:21:34.190,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.52445745,98,Off T
+7523,00:25:12.510,16,Shot,760,Seattle Reign FC,5073,Kiersten Dallstream,0.014064854,100,Saved
+7523,00:37:14.150,16,Shot,760,Seattle Reign FC,4998,Rumi Utsugi,0.02152716,98,Off T
+7523,00:42:00.150,16,Shot,764,Orlando Pride,5063,Chioma Ubogagu,0.03547554,100,Saved
+7523,00:43:46.430,16,Shot,760,Seattle Reign FC,5065,Lauren Barnes,0.025704036,101,Wayward
+7523,00:01:13.133,16,Shot,760,Seattle Reign FC,5006,Beverly Yanez,0.05073025,101,Wayward
+7523,00:01:26.360,16,Shot,760,Seattle Reign FC,4994,Nahomi Kawasumi,0.18009242,98,Off T
+7523,00:03:10.320,16,Shot,764,Orlando Pride,5068,Kristen Edmonds,0.07288253,98,Off T
+7523,00:05:18.920,16,Shot,764,Orlando Pride,5062,Dani Weatherholt,0.14137283,96,Blocked
+7523,00:05:22.760,16,Shot,764,Orlando Pride,5060,Poliana Barbosa Medeiros,0.04359691,96,Blocked
+7523,00:05:45.840,16,Shot,760,Seattle Reign FC,4994,Nahomi Kawasumi,0.082426235,100,Saved
+7523,00:06:57.920,16,Shot,760,Seattle Reign FC,5016,Jessica Fishlock,0.033570558,98,Off T
+7523,00:09:37.600,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.0022744753,98,Off T
+7523,00:15:06.280,16,Shot,764,Orlando Pride,5060,Poliana Barbosa Medeiros,0.0047809323,96,Blocked
+7523,00:20:47.240,16,Shot,760,Seattle Reign FC,5017,Christen Westphal,0.14668247,101,Wayward
+7523,00:24:11.093,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.03910922,100,Saved
+7523,00:27:05.200,16,Shot,764,Orlando Pride,5060,Poliana Barbosa Medeiros,0.13998057,96,Blocked
+7523,00:28:42.680,16,Shot,764,Orlando Pride,5076,Emily van Egmond,0.27705508,100,Saved
+7523,00:29:34.760,16,Shot,764,Orlando Pride,5063,Chioma Ubogagu,0.1596845,101,Wayward
+7523,00:32:43.360,16,Shot,764,Orlando Pride,5072,Danica Evans,0.030031178,96,Blocked
+7523,00:32:57.840,16,Shot,760,Seattle Reign FC,5002,Jodie Taylor,0.059804514,96,Blocked
+7523,00:35:42.080,16,Shot,764,Orlando Pride,5070,Christine Nairn,0.014169528,98,Off T
+7524,00:03:59.345,16,Shot,762,Houston Dash,5105,Sofia Huerta,0.14881529,100,Saved
+7524,00:07:10.376,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.17156596,98,Off T
+7524,00:07:59.817,16,Shot,762,Houston Dash,5105,Sofia Huerta,0.18756628,98,Off T
+7524,00:11:09.765,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.043379113,100,Saved
+7524,00:15:08.194,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.09398869,99,Post
+7524,00:15:18.453,16,Shot,764,Orlando Pride,7182,Camila Martins Pereira,0.025728187,100,Saved
+7524,00:17:25.137,16,Shot,762,Houston Dash,5058,Rachel Daly,0.3423656,97,Goal
+7524,00:18:48.220,16,Shot,762,Houston Dash,5059,Kyah Simon,0.089699954,98,Off T
+7524,00:21:08.676,16,Shot,762,Houston Dash,8382,Clare Polkinghorne,0.1195901,98,Off T
+7524,00:21:45.365,16,Shot,764,Orlando Pride,5060,Poliana Barbosa Medeiros,0.05001311,100,Saved
+7524,00:24:34.721,16,Shot,762,Houston Dash,5051,Kealia Ohai,0.048612468,96,Blocked
+7524,00:28:49.641,16,Shot,762,Houston Dash,5059,Kyah Simon,0.18264884,100,Saved
+7524,00:39:11.160,16,Shot,762,Houston Dash,8382,Clare Polkinghorne,0.0978878,98,Off T
+7524,00:40:26.145,16,Shot,764,Orlando Pride,7182,Camila Martins Pereira,0.04192362,98,Off T
+7524,00:00:13.020,16,Shot,762,Houston Dash,5058,Rachel Daly,0.3828055,98,Off T
+7524,00:01:20.980,16,Shot,764,Orlando Pride,7182,Camila Martins Pereira,0.08513737,96,Blocked
+7524,00:03:20.772,16,Shot,764,Orlando Pride,5064,Carson Pickett,0.0075450875,98,Off T
+7524,00:04:32.754,16,Shot,762,Houston Dash,5051,Kealia Ohai,0.021732256,96,Blocked
+7524,00:04:33.406,16,Shot,762,Houston Dash,5058,Rachel Daly,0.13228741,100,Saved
+7524,00:04:37.092,16,Shot,762,Houston Dash,5058,Rachel Daly,0.06332116,97,Goal
+7524,00:06:49.001,16,Shot,764,Orlando Pride,5062,Dani Weatherholt,0.2097776,98,Off T
+7524,00:08:36.460,16,Shot,764,Orlando Pride,5078,Alanna Kennedy,0.28481698,96,Blocked
+7524,00:09:04.856,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.16541691,97,Goal
+7524,00:11:05.244,16,Shot,762,Houston Dash,5059,Kyah Simon,0.047990076,98,Off T
+7524,00:13:42.524,16,Shot,762,Houston Dash,5059,Kyah Simon,0.048694704,100,Saved
+7524,00:22:11.045,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.03470276,96,Blocked
+7524,00:23:05.900,16,Shot,764,Orlando Pride,5060,Poliana Barbosa Medeiros,0.051782984,96,Blocked
+7524,00:23:07.340,16,Shot,764,Orlando Pride,5060,Poliana Barbosa Medeiros,0.04064274,96,Blocked
+7524,00:26:17.893,16,Shot,764,Orlando Pride,5063,Chioma Ubogagu,0.06932835,96,Blocked
+7524,00:26:19.858,16,Shot,764,Orlando Pride,5062,Dani Weatherholt,0.12305855,96,Blocked
+7524,00:27:44.834,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.03069557,98,Off T
+7524,00:32:35.263,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.13359171,101,Wayward
+7524,00:34:59.043,16,Shot,762,Houston Dash,5052,Thembi Kgatlana,0.10504811,98,Off T
+7524,00:35:33.806,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.07870597,100,Saved
+7524,00:36:20.601,16,Shot,762,Houston Dash,5105,Sofia Huerta,0.035870556,100,Saved
+7524,00:37:25.646,16,Shot,764,Orlando Pride,5067,Sydney Leroux,0.3879356,98,Off T
+7524,00:44:14.620,16,Shot,764,Orlando Pride,5063,Chioma Ubogagu,0.05952648,96,Blocked
+7524,00:44:35.081,16,Shot,764,Orlando Pride,5082,Marta Vieira da Silva,0.015687149,100,Saved
+7524,00:46:29.263,16,Shot,764,Orlando Pride,5085,Alex Morgan,0.14376302,96,Blocked
+7524,00:49:42.517,16,Shot,762,Houston Dash,5052,Thembi Kgatlana,0.24006845,97,Goal
