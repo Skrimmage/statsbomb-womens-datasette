@@ -9,5 +9,5 @@ before_script:
   - pip install Markdown==2.6.11  
   - git clone https://github.com/statsbomb/open-data.git
   - python output_csv.py
-script: csvs-to-sqlite  ./csv/*.csv womens-shot-data.db
+script: csvs-to-sqlite --replace-tables ./csv/*.csv womens-shot-data.db 
 after_success: .travis/push_back.sh
