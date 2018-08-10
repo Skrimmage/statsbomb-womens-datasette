@@ -1,0 +1,56 @@
+-- top 5 performances
+
+select sum(shot_xg), count(shot_xg), sum(case when (shot_result_id = "Goal") then 1 else 0 end) goals, team_name, match_id from events group by team_id,match_id order by sum(shot_xg) desc limit 5;
+
+sum(shot_xg)  count(shot_xg)  goals       team_name               match_id  
+------------  --------------  ----------  ----------------------  ----------
+5.055359992   25              4           North Carolina Courage  7484      
+4.85068797    18              4           North Carolina Courage  7519      
+4.785423994   23              2           Orlando Pride           7492      
+4.227053421   26              3           North Carolina Courage  7457      
+3.9535856346  25              2           Chelsea LFC             7298      
+
+-----
+
+-- bottom 5 perf
+
+sum(shot_xg)  count(shot_xg)  goals       team_name       match_id  
+------------  --------------  ----------  --------------  ----------
+0.2484912916  5               0           Utah Royals FC  7487      
+0.384440128   6               0           Washington Spi  7482      
+0.3939508115  7               0           Utah Royals FC  7477      
+0.6791047705  12              1           Houston Dash    7478      
+0.6793474213  10              2           Portland Thorn  7490      
+
+select sum(shot_xg)/count(distinct match_id) average_xg, count(distinct match_id) games, sum(shot_xg) total_xg, team_name from events group by team_id order by total_xg desc;
+
+average_xg     games       total_xg       team_name             
+-------------  ----------  -------------  ----------------------
+2.88204355743  10          28.8204355743  North Carolina Courage
+2.19827370825  7           15.3879159578  Orlando Pride         
+1.87574517885  6           11.2544710731  Portland Thorns FC    
+1.77311935473  6           10.6387161284  Chicago Red Stars     
+1.77232914916  6           10.633974895   Seattle Reign FC      
+1.4255167809   6           8.5531006854   Sky Blue FC           
+0.96845823     7           6.77920761     Utah Royals FC        
+1.34489084184  5           6.7244542092   Houston Dash          
+1.0571532651   5           5.2857663255   Washington Spirit     
+3.9535856346   1           3.9535856346   Chelsea LFC           
+1.335790928    1           1.335790928    Manchester City WFC 
+
+select sum(shot_xg)/count(distinct match_id) average_xg, count(distinct match_id) games, sum(shot_xg) total_xg, team_name from events group by team_id order by average_xg desc;
+average_xg    games       total_xg      team_name  
+------------  ----------  ------------  -----------
+3.9535856346  1           3.9535856346  Chelsea LFC
+2.8820435574  10          28.820435574  North Carol
+2.1982737082  7           15.387915957  Orlando Pri
+1.8757451788  6           11.254471073  Portland Th
+1.7731193547  6           10.638716128  Chicago Red
+1.7723291491  6           10.633974895  Seattle Rei
+1.4255167809  6           8.5531006854  Sky Blue FC
+1.3448908418  5           6.7244542092  Houston Das
+1.335790928   1           1.335790928   Manchester 
+1.0571532651  5           5.2857663255  Washington 
+0.96845823    7           6.77920761    Utah Royal
+
+select sum(shot_xg)/count(distinct match_id) average_xg, count(distinct match_id) games, sum(shot_xg) total_xg, team_name from events where team_id in (select team_id from matches where competition_id = 49) group by team_id order by total_xg desc;s 

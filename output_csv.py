@@ -80,7 +80,7 @@ def get_matches():
         writer = csv.writer(csv_file)
 
         # Headers
-        writer.writerow(['match_id', 'competition_id', 'competition_country_name', 'competition_name', 'match_date'])
+        writer.writerow(['match_id', 'competition_id', 'competition_country_name', 'competition_name', 'match_date', 'home_team_id', 'home_team_name', 'away_team_id', 'away_team_name', 'home_score', 'away_score'])
 
         for comp in data:
             for match in comp:
@@ -89,14 +89,20 @@ def get_matches():
                     match['match_date'],
                     match['competition']['competition_id'],
                     match['competition']['country_name'],
-                    match['competition']['competition_name']
+                    match['competition']['competition_name'],
+                    match['home_team']['home_team_id'],
+                    match['home_team']['home_team_name'],
+                    match['away_team']['away_team_id'],
+                    match['away_team']['away_team_name'],
+                    match['home_score'],
+                    match['away_score']
                 ]
 
                 writer.writerow(row)
 
 
 if __name__ == "__main__":
-    Path('./csv').mkdir(parents=True, exist_ok=True) 
+    Path('./csv').mkdir(parents=True, exist_ok=True)
 
     get_matches()
     get_events()
