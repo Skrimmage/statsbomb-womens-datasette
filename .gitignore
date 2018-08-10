@@ -3,7 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# Don't need to overwrite
 .idea/
+.DS_store
+open-data/
 
 # C extensions
 *.so
