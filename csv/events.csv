@@ -1,4 +1,4 @@
-match_id,timestamp,type_id,type_name,team_id,team_name,player_id,player_name,shot_xg,shot_result,shot_result_id
+match_id,timestamp,type_id,type_name,team_id,team_name,player_id,player_name,shot_xg,shot_result_id,shot_result
 7298,00:00:47.620,16,Shot,745,Chelsea LFC,4641,Francesca Kirby,0.25842914,96,Blocked
 7298,00:05:12.780,16,Shot,745,Chelsea LFC,4641,Francesca Kirby,0.110746585,96,Blocked
 7298,00:05:41.940,16,Shot,745,Chelsea LFC,4647,So-yun Ji,0.033619918,96,Blocked

@@ -1,4 +1,4 @@
-match_id,competition_id,competition_country_name,competition_name,match_date,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score
+match_id,match_date,competition_id,competition_country_name,competition_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score
 7298,2018-02-24,37,England,FA Women's Super League,746,Manchester City WFC,745,Chelsea LFC,2,2
 7444,2018-05-06,49,United States of America,NWSL,766,North Carolina Courage,761,Chicago Red Stars,1,1
 7519,2018-05-31,49,United States of America,NWSL,765,Portland Thorns FC,766,North Carolina Courage,1,4
