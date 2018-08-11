@@ -26,9 +26,9 @@ Match 7484 had a strong performance by NCC, let's dive deeper:
 ```sql
 select team_id, team_name, sum(shot_xg) from events where match_id = 7484 group by team_id order by team_id;
 
--- team_id	team_name	    sum(shot_xg)  goals
--- 763	    Sky Blue FC  	1.294180172   0
--- 766	    NCC         	5.055359992   4
+-- team_id  team_name   sum(shot_xg)  goals
+-- 763      Sky Blue    1.294180172   0
+-- 766	    NCC         5.055359992   4
 ```
 
 North Carolina won 4-0 over Sky Blue, let's take a look at those shots:
