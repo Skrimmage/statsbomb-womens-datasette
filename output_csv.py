@@ -68,6 +68,7 @@ def get_events():
 
 
 def get_matches():
+    print('getting matches')
     match_files = get_files('./open-data/data/matches')
 
     data = []
@@ -104,7 +105,5 @@ def get_matches():
 
 if __name__ == "__main__":
     Path('./csv').mkdir(parents=True, exist_ok=True)
-    print('getting matches')
     get_matches()
-    # print('getting events')
     # get_events()
