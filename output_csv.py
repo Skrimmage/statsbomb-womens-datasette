@@ -99,10 +99,12 @@ def get_matches():
                 ]
 
                 writer.writerow(row)
+                print(match['match_id'])
 
 
 if __name__ == "__main__":
     Path('./csv').mkdir(parents=True, exist_ok=True)
-
+    print('getting matches')
     get_matches()
-    get_events()
+    # print('getting events')
+    # get_events()
